@@ -1,0 +1,107 @@
+{
+	"$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  	"display": {
+		"separator": "",
+		"percent": {
+			"type": 2
+		},
+		"size": {
+			"binaryPrefix": "jedec",
+			"ndigits": 0
+		}
+       	},
+	"logo": {
+		"padding": {
+			"top": 2,
+			"left": 2
+		}
+	},
+	"modules": [
+		{
+			"type": "custom"
+		},
+		{
+			"type": "host",
+			"key": " ",
+			"format": "  {#36}{#1}{name}  {#34}╘╕"
+		},
+		{
+			"type": "custom",
+			"format": "{#34}╒═══════════════════════════════════════════╛"
+		},
+		{
+			"type": "custom",
+			"format": "{#34}│ {#32}┌── HARDWARE ─── "
+		},
+		{
+			"type": "cpu",
+			"key": "{#34}│ {#32}├─{#35}   CPU "
+		},
+		{
+			"type": "gpu",
+			"key": "{#34}│ {#32}├─{#35}   GPU "
+		},
+		{
+			"type": "memory",
+			"key": "{#34}│ {#32}├─{#35}   MEM "
+		},
+		{
+			"type": "custom",
+			"format": "{#34}│ {#32}└┬─ STORAGE ────" 
+		},
+		{
+			"type": "disk",
+			"key": "{#34}│ {#32} ├─{#35}   {name} "
+		},
+		{
+			"type": "custom",
+			"format": "{#34}│ {#32} └──────────────" 
+		},
+
+		{
+			"type": "custom",
+			"format": "{#34}╘╤══════════════════╛"
+		},
+		{
+			"type": "custom",
+			"format": " {#34}│ {#32}┌── SOFTWARE ─── "
+		},
+		{
+			"type": "kernel",
+			"key": " {#34}│ {#32}├─{#35} 󰐢  Kernel "
+		},
+		{
+			"type": "shell",
+			"key": " {#34}│ {#32}├─{#35}  Shell "
+		},
+		{
+			"type": "wm",
+			"key": " {#34}│ {#32}├─{#35}   WM "
+		},
+		{
+			"type": "packages",
+			"key": " {#34}│ {#32}├─{#35}   Packages "
+		},
+		{
+			"type": "terminal",
+			"key": " {#34}│ {#32}├─{#35}   Term "
+		},
+		{
+			"type": "custom",
+			"format": " {#34}│ {#32}└───────────────" 
+		},
+		{
+			"type": "custom",
+			"format": " {#34}╘═╕╒═╕ ╒════════════════╕"
+		},
+    		{
+			"type": "colors",
+			"key": "   {#34}╘╛ ╘═╛",	
+			"symbol": "diamond"
+   		},
+		{
+			"type": "custom",
+			"format": " "
+		}
+  	]
+}

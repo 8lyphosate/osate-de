@@ -1,0 +1,113 @@
+##
+# Files
+ mpd_music_dir = "~/Music"  
+ lyrics_directory  = ~/.ncmpcpp/lyrics
+ ncmpcpp_directory  = ~/.ncmpcpp
+ mpd_host = "127.0.0.1"
+ mpd_port = "6600"  
+ mpd_connection_timeout = "5"  
+ mpd_crossfade_time = "5"  
+
+ # Playlist
+ playlist_disable_highlight_delay = "0"  
+ playlist_display_mode = "columns"  
+ playlist_show_remaining_time = "yes"
+
+ browser_display_mode = "columns"  
+ autocenter_mode = "yes"  
+ fancy_scrolling = "yes"  
+ follow_now_playing_lyrics = "yes"  
+ display_screens_numbers_on_start = "yes"  
+ ignore_leading_the = "yes"  
+ lyrics_database = "1"  
+ song_columns_list_format = "(10)[blue]{l} (30)[green]{a} (30)[magenta]{b} (50)[yellow]{t}"  
+ colors_enabled = "yes"  
+ main_window_color = "white"  
+ main_window_highlight_color =  "blue"
+ header_window_color = "cyan"  
+ volume_color = "red"  
+ progressbar_color = "cyan"  
+ statusbar_color = "white"  
+ active_column_color = "cyan"  
+ active_window_border = "blue"
+
+alternative_header_first_line_format = "$0$aqqu$/a {$7%a - $9}{$5%t$9}|{$8%f$9} $0$atqq$/a$9"
+alternative_header_second_line_format = "{{$6%b$9}{ [$6%y$9]}}|{%D}"
+song_list_format = "{$3%n │ $9}{$7%a - $9}{$5%t$9}|{$8%f$9}$R{$6 │ %b$9}{$3 │ %l$9}"
+user_interface = "classic"
+#user_interface = "alternative"
+default_place_to_search_in = "database"
+
+
+# visualizer
+visualizer_data_source = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+#buffer_time = "0"
+visualizer_type = "spectrum"
+visualizer_spectrum_smooth_look = "yes"
+visualizer_in_stereo = "no"
+visualizer_autoscale = "yes"
+visualizer_look = "!!"
+visualizer_color = 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256
+visualizer_spectrum_hz_min = 20
+visualizer_spectrum_hz_max = 20000
+
+## Navigation ##
+cyclic_scrolling = "yes"
+header_text_scrolling = "yes"
+jump_to_now_playing_song_at_start = "yes"
+lines_scrolled = "1"
+
+## Other ##
+system_encoding = "utf-8"
+regular_expressions = "extended"
+
+
+
+## Selected tracks ##
+selected_item_prefix = "$r* "
+selected_item_suffix = $/r
+discard_colors_if_item_is_selected = "no"
+
+## Seeking ##
+incremental_seeking = "yes"
+seek_time = "1"
+
+# Visibility #
+##############
+header_visibility = "yes"
+statusbar_visibility = "yes"
+titles_visibility = "yes"
+
+# Progress bar #
+################
+progressbar_look =  "─┼─"
+progressbar_color = "245"
+progressbar_elapsed_color = "white"
+
+now_playing_prefix = "$b> "
+now_playing_suffix = $/b
+song_status_format = " $2%a $4>$3> $8%t $4>$3> $5%b "
+#song_status_format = "$6%t by %a $9(%b)"
+autocenter_mode = "yes"
+centered_cursor = "yes"
+
+# Misc
+display_bitrate = "yes"
+display_volume_level = "no"
+# enable_window_title = "no"
+follow_now_playing_lyrics = "yes"
+ignore_leading_the = "yes"
+empty_tag_marker = "<empty>"
+tags_separator = " | "
+enable_window_title = "yes"
+song_window_title_format = "ncmpcpp"
+
+# Split screen #
+################
+startup_slave_screen = "visualizer"
+locked_screen_width_part = 50
+
+# Scripts #
+###########
+execute_on_song_change = "~/.ncmpcpp/notify.sh"

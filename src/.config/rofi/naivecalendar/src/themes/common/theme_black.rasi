@@ -1,0 +1,28 @@
+/************************************************
+ * ROFI Color theme
+ * User: Daguhh
+ * Copyright: 2020 Daguhh
+ ***********************************************/
+
+@import "theme_base.rasi"
+
+
+* {
+    black:          #00000000;
+    gray:           #ffffff46;
+    white:          #FFFFFF;
+    purple:	    #701f92;	
+
+    foreground:                  @gray;
+    background:                  @black;
+    foreground-normal:           @foreground;
+    background-normal:           transparent;
+    foreground-urgent:           #000000;
+    background-urgent:           @white;
+    foreground-active:           @white;
+    background-active:           transparent;
+    foreground-select:           @white;
+    background-select:           @gray;
+    border:                      @white;
+    font:                       "Iosevka Nerd Font SemiBold 12";
+}

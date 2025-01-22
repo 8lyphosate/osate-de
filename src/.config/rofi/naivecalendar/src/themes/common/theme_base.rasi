@@ -1,0 +1,98 @@
+#window {
+    border-color:           @border;
+    background-color:       #000000b3;
+    text-color:             @foreground;
+}
+#mainbox {
+    background-color:   transparent;
+}
+#message {
+    border-color: transparent;
+    background-color:   transparent;
+}
+#textbox {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#listview {
+    border-color: @background;
+    background-color:   transparent;
+}
+#element {
+    background-color:   transparent;
+}
+#element.normal.normal {
+    background-color: @background-normal;
+    text-color:       @foreground-normal;
+}
+#element.normal.urgent {
+    background-color: @background-urgent;
+    text-color:       @foreground-urgent;
+}
+#element.normal.active {
+    background-color: @background-active;
+    text-color:       @foreground-active;
+}
+#element.selected.normal {
+    background-color: @background-select;
+    text-color:       @foreground-select;
+}
+#element.selected.urgent {
+    background-color: @background-select;
+    text-color:       @foreground-select;
+}
+#element.selected.active {
+    background-color: @background-select;
+    text-color:       @foreground-select;
+}
+#element.alternate.normal {
+    background-color: @background-normal;
+    text-color:       @foreground-normal;
+}
+#element.alternate.urgent {
+    background-color: @background-urgent;
+    text-color:       @foreground-urgent;
+}
+#element.alternate.active {
+    background-color: @background-active;
+    text-color:       @foreground-active;
+}
+#mode-switcher {
+    border-color: transparent;
+    foreground-color:   transparent;
+    background-color:   transparent;
+}
+#button {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#button.selected {
+    background-color: @background;
+    text-color:       @foreground;
+}
+#inputbar {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#case-indicator {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#entry {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#prompt {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+#textbox-prompt-colon {
+    text-color: @foreground;
+    background-color:   transparent;
+}
+
+element-text, element-icon {
+    background-color: transparent;
+    text-color:       inherit;
+}
+

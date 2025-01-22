@@ -1,0 +1,12 @@
+
+@import "shape_base.rasi"
+
+#listview {
+    columns:      7;
+    lines:        7;
+}
+
+#window {
+    border:        1;
+    border-radius: 0;
+}

@@ -1,0 +1,211 @@
+#-----------#
+# Variables #
+#-----------#
+
+set $mod Mod4
+set $ws1  "01"
+set $ws2  "02"
+set $ws3  "03"
+set $ws4  "04"
+set $ws5  "05"
+set $ws6  "06"
+set $ws7  "07"
+set $ws8  "08"
+set $ws9  "09"
+set $ws10 "10"
+set $term alacritty
+set $mail thunderbird
+set $browser firefox
+set $editor vim
+# ^^^ bcuz i3 doesn't use environment variables... 
+
+#-------------------#
+# Window Navigation #
+#-------------------#
+
+## Windows // Kill //   + Q ##
+bindsym $mod+q kill
+
+## Windows // Switch focus //   +         ##
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+## Windows // Move focused //   + SHIFT +         ##
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+## Windows // Horizontal split //   + H ##
+bindsym $mod+h split h
+
+## Windows // Vertial split //   + V ##
+bindsym $mod+v split v
+ 
+## Windows // Fullscreen //   + F ##
+bindsym $mod+f fullscreen toggle
+
+## Windows // Tabbed layout //   + W ##
+bindsym $mod+w layout tabbed
+
+## Windows // Float //   + SPACE ##
+bindsym $mod+space floating toggle
+
+## Windows // Drag //   +  ## 
+floating_modifier $mod
+tiling_drag modifier
+
+# System // Reload i3 Config //   + SHIFT + R ##
+bindsym $mod+Shift+c reload
+
+## System // Reload i3 //   + SHIFT + R ##
+bindsym $mod+Shift+r restart
+
+# Windows // Resize //   + CONTROL +          ##
+bindsym $mod+Control+Left resize shrink width 10 px or 10 ppt
+bindsym $mod+Control+Down resize grow height 10 px or 10 ppt
+bindsym $mod+Control+Up resize shrink height 10 px or 10 ppt
+bindsym $mod+Control+Right resize grow width 10 px or 10 ppt
+
+#----------------------#
+# Workspace Navigation #
+#----------------------#		
+
+## Workspaces // Switch to //   + 1-0 ## 
+bindsym $mod+1 workspace number $ws1
+bindsym $mod+2 workspace number $ws2
+bindsym $mod+3 workspace number $ws3
+bindsym $mod+4 workspace number $ws4
+bindsym $mod+5 workspace number $ws5
+bindsym $mod+6 workspace number $ws6
+bindsym $mod+7 workspace number $ws7
+bindsym $mod+8 workspace number $ws8
+bindsym $mod+9 workspace number $ws9
+bindsym $mod+0 workspace number $ws10
+
+## Workspaces // Move to //   + SHIFT + 1-0 ##
+bindsym $mod+Shift+1 move container to workspace number $ws1
+bindsym $mod+Shift+2 move container to workspace number $ws2
+bindsym $mod+Shift+3 move container to workspace number $ws3
+bindsym $mod+Shift+4 move container to workspace number $ws4
+bindsym $mod+Shift+5 move container to workspace number $ws5
+bindsym $mod+Shift+6 move container to workspace number $ws6
+bindsym $mod+Shift+7 move container to workspace number $ws7
+bindsym $mod+Shift+8 move container to workspace number $ws8
+bindsym $mod+Shift+9 move container to workspace number $ws9
+bindsym $mod+Shift+0 move container to workspace number $ws10
+
+## Workspaces // Next workspace //   + TAB ##
+bindsym $mod+Tab workspace next 
+bindsym --whole-window --border $mod+button5 workspace next
+
+## Workspaces // Previous workspace //   + SHIFT + TAB ## 
+bindsym $mod+Shift+Tab workspace prev
+bindsym --whole-window --border $mod+button4 workspace prev
+
+#------------#
+# Appearance #
+#------------#
+			
+# Font
+font pango:IosevkaNerdFontMono 11
+
+# i3-gaps
+gaps inner 20
+gaps outer 5
+
+# Colors
+for_window [all] border pixel 1 
+client.focused          #ffffff #ffffff   #000000b3 #ffffff   #ffffff
+client.unfocused        #ffffff #000000b3 #ffffff77 #ffffff43 #ffffff43
+client.focused_inactive #ffffff #000000b3 #ffffff77 #ffffff43 #ffffff43
+
+#------------------#
+# Startup Programs #
+#------------------#
+
+# Taskbar
+exec_always --no-startup-id "killall -q polybar; polybar"
+
+# Wallpaper
+#exec --no-startup-id ~/.config/scripts/wallgif ...
+exec --no-startup-id nitrogen --restore
+
+# Welcome message
+exec --no-startup-id $term -e ~/.config/scripts/welcome.sh
+for_window [class = "startup-app"] floating enable
+for_window [class = "startup-app"] resize set 900 900
+
+# Popups
+for_window [class = "topbar-popup"] floating enable
+for_window [class = "topbar-popup"] move position 1101 42
+
+# Compositor
+exec_always --no-startup-id picom
+
+# Music player
+exec --no-startup-id mpd
+
+# Notifications
+exec --no-startup-id dunst
+
+# Caffeine
+exec --no-startup-id caffeine
+
+# Lockscreen
+# exec --no-startup-id xss-lock --transfer-sleep-lock -- betterlockscreen -l
+
+# Menu
+exec --no-startup-id jgmenu --hide-on-startup --at-pointer
+exec --no-startup-id xclickroot jgmenu_run
+
+#-----------------------#
+# Application Shortcuts #
+#-----------------------#
+
+# Audio controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +2%
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -2%
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
+bindsym XF86AudioPlay exec --no-startup-id "mpc toggle"
+bindsym XF86AudioStop exec --no-startup-id "mpc stop"
+bindsym XF86AudioNext exec --no-startup-id "mpc next"
+bindsym XF86AudioPrev exec --no-startup-id "mpc prev"
+
+# And for my Dell keyboard...
+bindsym Shift+XF86Tools exec --no-startup-id "alacritty -e ncmpcpp"
+bindsym XF86Tools exec --no-startup-id ~/.config/scripts/focusncmpcpp.sh
+bindsym XF86Mail exec --no-startup-id thunderbird
+bindsym XF86Calculator exec --no-startup-id "alacritty -e calc"
+bindsym XF86Explorer exec --no-startup-id "alacritty -e sudo sh -c 'fdisk -l && $SHELL'"
+		
+## Applications // Alacritty //   + ENTER ##
+bindsym $mod+Return exec --no-startup-id $term
+
+# System // Run //   + S ##
+bindsym $mod+s exec "rofi -show-icons -modi drun,run -show drun"
+
+## System // Windows // ALT + TAB ##
+bindsym Mod1+Tab exec rofi -show window
+
+## System // Help //   + ? ##
+bindsym $mod+slash exec rofi -modi shortcut:~/.config/rofi/hotkeys/shortcut.sh -show shortcut
+
+## Applications // File Manager //   + E ##
+bindsym $mod+e exec --no-startup-id $term -e ~/.config/clifm/clifmrun
+
+## Applications // System Monitor //   + SHIFT + ESC ##
+bindsym Control+Shift+Escape exec --no-startup-id $term -e bashtop
+
+## System // Power // CTRL + ALT + DEL ##
+bindsym Control+Mod1+Delete exec --no-startup-id ~/.config/rofi/powermenu/type-1/powermenu.sh
+
+## Utilities // Screenshot // PRINT_SCREEN ##
+bindsym Print exec --no-startup-id NOW=$(date +%d-%b-%Y_%H-%M-%S) && maim -u --format png --select > ~/screenshots/screenshot_$NOW.png && xclip -selection clip -t image/png ~/screenshots/screenshot_$NOW.png && dunstify -I ~/screenshots/screenshot_$NOW.png "Screenshot" 'Saved to /home/glyph/screenshots/'
+
+## Applications // Firefox //   + B ##
+bindsym $mod+b exec --no-startup-id $browser
+
+
