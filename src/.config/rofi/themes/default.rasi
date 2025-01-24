@@ -1,0 +1,143 @@
+* {
+    selected-normal-foreground:  #000000ff;
+    foreground:                  #ffffffff;
+    selected-urgent-foreground:  rgba ( 249, 249, 249, 100 % );
+    urgent-foreground:           rgba ( 204, 102, 102, 100 % );
+    active-foreground:           rgba ( 101, 172, 255, 100 % );
+    selected-active-foreground:  rgba ( 249, 249, 249, 100 % );
+    background:                  #000000b3;
+    normal-background:           @background;
+    selected-normal-background:  #ffffffff;
+    border-color:                rgba ( 124, 131, 137, 100 % );
+    spacing:                     2;
+    separatorcolor:              #ffffff46;
+    urgent-background:           rgba ( 29, 31, 33, 17 % );
+    selected-urgent-background:  rgba ( 165, 66, 66, 100 % );
+    background-color:            rgba ( 0, 0, 0, 0 % );
+    active-background:           rgba ( 29, 31, 33, 17 % );
+    selected-active-background:  rgba ( 68, 145, 237, 100 % );
+    trans:			 #00000000;
+    black:			 #000000ff;
+    white:			 #ffffffff;
+    trans-black:		 #000000b3;
+    trans-white:		 #ffffff46;
+    gray:			 #181818ff;
+    font:			 "Iosevka Nerd Font SemiBold 12";
+}
+window {
+    background-color: @background;
+    border-color:     @white;
+    border-radius:    0;
+    border:           1;
+    padding:          5;
+}
+mainbox {
+    border:  0;
+    padding: 0;
+}
+message {
+    border:       2px 0px 0px ;
+    border-color: @separatorcolor;
+    padding:      1px ;
+}
+textbox {
+    text-color: @foreground;
+}
+listview {
+    fixed-height: 0;
+    border:       2px 0px 0px ;
+    border-color: @separatorcolor;
+    spacing:      2px ;
+    scrollbar:    true;
+    padding:      2px 0px 0px ;
+}
+element {
+    border:  0;
+    padding: 4px ;
+}
+element-text {
+    background-color: @trans;
+    text-color:       inherit;
+}
+element.normal.normal {
+    background-color: @trans;
+    text-color:       @white;
+}
+element.normal.urgent {
+    background-color: @white;
+    text-color:       @black;
+}
+element.normal.active {
+    background-color: @white;
+    text-color:       @black;
+}
+element.selected.normal {
+    background-color: @trans-white;
+    text-color:       @white;
+}
+element.selected.urgent {
+    background-color: @trans-white;
+    text-color:       @white;
+}
+element.selected.active {
+    background-color: @trans-white;
+    text-color:       @white;
+}
+element.alternate.normal {
+    background-color: @trans;
+    text-color:       @white;
+}
+element.alternate.urgent {
+    background-color: @white;
+    text-color:       @black;
+}
+element.alternate.active {
+    background-color: @white;
+    text-color:       @black;
+}
+scrollbar {
+    width:        4px ;
+    border:       0;
+    handle-color: @white;
+    handle-width: 8px ;
+    padding:      0;
+}
+mode-switcher {
+    border:       2px 0px 0px ;
+    border-color: @separatorcolor;
+}
+button {
+    spacing:    0;
+    text-color: @foreground;
+}
+button.selected {
+    background-color: @trans-white;
+    text-color:       @white;
+}
+inputbar {
+    spacing:    0;
+    text-color: @white;
+    padding:    1px ;
+}
+case-indicator {
+    spacing:    0;
+    text-color: @white;
+}
+entry {
+    spacing:    0;
+    text-color: @white;
+}
+prompt {
+    spacing:    0;
+    str:	"search";
+    text-color: @white;
+}
+inputbar {
+    children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
+}
+textbox-prompt-colon {
+    expand:     false;
+    str:        ":";
+    margin:     0px 0.3em 0em 0em ;
+    text-color: @white;
+}
