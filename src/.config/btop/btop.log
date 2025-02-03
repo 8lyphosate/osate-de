@@ -1,0 +1,931 @@
+
+2025/01/31 (17:30:50) | ===> btop++ v.1.4.0
+2025/01/31 (17:30:50) | INFO: Logger set to DEBUG
+2025/01/31 (17:30:50) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (17:30:50) | INFO: Running on /dev/pts/1
+2025/01/31 (17:30:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (17:30:50) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (17:30:50) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (17:30:50) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (17:30:52) | ===> btop++ v.1.4.0
+2025/01/31 (17:30:52) | INFO: Logger set to DEBUG
+2025/01/31 (17:30:52) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (17:30:52) | INFO: Running on /dev/pts/1
+2025/01/31 (17:30:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (17:30:52) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (17:30:52) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (17:30:52) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (17:30:58) | ===> btop++ v.1.4.0
+2025/01/31 (17:30:58) | INFO: Logger set to DEBUG
+2025/01/31 (17:30:58) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (17:30:58) | INFO: Running on /dev/pts/2
+2025/01/31 (17:30:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (17:30:58) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (17:30:58) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (17:30:58) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (17:31:02) | ===> btop++ v.1.4.0
+2025/01/31 (17:31:02) | INFO: Logger set to DEBUG
+2025/01/31 (17:31:02) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (17:31:02) | INFO: Running on /dev/pts/2
+2025/01/31 (17:31:02) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (17:31:02) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (17:31:02) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (17:31:02) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (17:31:07) | ===> btop++ v.1.4.0
+2025/01/31 (17:31:07) | INFO: Logger set to DEBUG
+2025/01/31 (17:31:07) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (17:31:07) | INFO: Running on /dev/pts/1
+2025/01/31 (17:31:07) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (17:31:07) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (17:31:07) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (17:31:07) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (18:07:11) | ===> btop++ v.1.4.0
+2025/01/31 (18:07:11) | INFO: Logger set to DEBUG
+2025/01/31 (18:07:11) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (18:07:11) | INFO: Running on /dev/pts/0
+2025/01/31 (18:07:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (18:07:11) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (18:07:11) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (18:07:11) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (18:07:13) | ===> btop++ v.1.4.0
+2025/01/31 (18:07:13) | INFO: Logger set to DEBUG
+2025/01/31 (18:07:13) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (18:07:13) | INFO: Running on /dev/pts/0
+2025/01/31 (18:07:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (18:07:13) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (18:07:13) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (18:07:13) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/01/31 (19:56:30) | ===> btop++ v.1.4.0
+2025/01/31 (19:56:30) | INFO: Logger set to DEBUG
+2025/01/31 (19:56:30) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (19:56:30) | INFO: Running on /dev/pts/1
+2025/01/31 (19:56:30) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (19:56:30) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (19:56:30) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (19:56:30) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+2025/01/31 (19:56:30) | WARNING: Failed to get disk/partition stats for mount "/run/media/glyph/da\040drum\040drive" with statvfs error code: 2. Ignoring...
+
+2025/01/31 (20:10:33) | ===> btop++ v.1.4.0
+2025/01/31 (20:10:33) | INFO: Logger set to DEBUG
+2025/01/31 (20:10:33) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (20:10:33) | INFO: Running on /dev/pts/1
+2025/01/31 (20:10:33) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (20:10:33) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (20:10:33) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (20:10:33) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+2025/01/31 (20:10:33) | WARNING: Failed to get disk/partition stats for mount "/run/media/glyph/da\040drum\040drive" with statvfs error code: 2. Ignoring...
+
+2025/01/31 (21:37:37) | ===> btop++ v.1.4.0
+2025/01/31 (21:37:37) | INFO: Logger set to DEBUG
+2025/01/31 (21:37:37) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (21:37:37) | INFO: Running on /dev/pts/0
+2025/01/31 (21:37:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (21:37:37) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (21:37:37) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (21:37:37) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+2025/01/31 (21:37:37) | WARNING: Failed to get disk/partition stats for mount "/run/media/glyph/da\040drum\040drive" with statvfs error code: 2. Ignoring...
+
+2025/01/31 (23:34:31) | ===> btop++ v.1.4.0
+2025/01/31 (23:34:31) | INFO: Logger set to DEBUG
+2025/01/31 (23:34:31) | DEBUG: Using locale en_US.UTF-8
+2025/01/31 (23:34:31) | INFO: Running on /dev/pts/0
+2025/01/31 (23:34:31) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/01/31 (23:34:31) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/01/31 (23:34:31) | DEBUG: Shared::init() : Initialized.
+2025/01/31 (23:34:31) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+2025/01/31 (23:34:31) | WARNING: Failed to get disk/partition stats for mount "/run/media/glyph/da\040drum\040drive" with statvfs error code: 2. Ignoring...
+
+2025/02/01 (13:53:54) | ===> btop++ v.1.4.0
+2025/02/01 (13:53:54) | INFO: Logger set to DEBUG
+2025/02/01 (13:53:54) | DEBUG: Using locale en_US.UTF-8
+2025/02/01 (13:53:54) | INFO: Running on /dev/pts/0
+2025/02/01 (13:53:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/01 (13:53:54) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/01 (13:53:54) | DEBUG: Shared::init() : Initialized.
+2025/02/01 (13:53:54) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/01 (15:00:06) | ===> btop++ v.1.4.0
+2025/02/01 (15:00:06) | INFO: Logger set to DEBUG
+2025/02/01 (15:00:06) | DEBUG: Using locale en_US.UTF-8
+2025/02/01 (15:00:06) | INFO: Running on /dev/pts/5
+2025/02/01 (15:00:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/01 (15:00:06) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/01 (15:00:06) | DEBUG: Shared::init() : Initialized.
+2025/02/01 (15:00:06) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/01 (20:27:12) | ===> btop++ v.1.4.0
+2025/02/01 (20:27:12) | INFO: Logger set to DEBUG
+2025/02/01 (20:27:12) | DEBUG: Using locale en_US.UTF-8
+2025/02/01 (20:27:12) | INFO: Running on /dev/pts/0
+2025/02/01 (20:27:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/01 (20:27:12) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/01 (20:27:12) | DEBUG: Shared::init() : Initialized.
+2025/02/01 (20:27:12) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/01 (21:53:58) | ===> btop++ v.1.4.0
+2025/02/01 (21:53:58) | INFO: Logger set to DEBUG
+2025/02/01 (21:53:58) | DEBUG: Using locale en_US.UTF-8
+2025/02/01 (21:53:58) | INFO: Running on /dev/pts/2
+2025/02/01 (21:53:59) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/01 (21:53:59) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/01 (21:53:59) | DEBUG: Shared::init() : Initialized.
+2025/02/01 (21:53:59) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/01 (21:54:00) | ===> btop++ v.1.4.0
+2025/02/01 (21:54:00) | INFO: Logger set to DEBUG
+2025/02/01 (21:54:00) | DEBUG: Using locale en_US.UTF-8
+2025/02/01 (21:54:00) | INFO: Running on /dev/pts/2
+2025/02/01 (21:54:00) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/01 (21:54:00) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/01 (21:54:00) | DEBUG: Shared::init() : Initialized.
+2025/02/01 (21:54:00) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (11:12:24) | ===> btop++ v.1.4.0
+2025/02/02 (11:12:24) | INFO: Logger set to DEBUG
+2025/02/02 (11:12:24) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (11:12:24) | INFO: Running on /dev/pts/0
+2025/02/02 (11:12:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (11:12:24) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (11:12:24) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (11:12:24) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (11:12:27) | ===> btop++ v.1.4.0
+2025/02/02 (11:12:27) | INFO: Logger set to DEBUG
+2025/02/02 (11:12:27) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (11:12:27) | INFO: Running on /dev/pts/0
+2025/02/02 (11:12:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (11:12:27) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (11:12:27) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (11:12:27) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (11:14:34) | ===> btop++ v.1.4.0
+2025/02/02 (11:14:34) | INFO: Logger set to DEBUG
+2025/02/02 (11:14:34) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (11:14:34) | INFO: Running on /dev/pts/0
+2025/02/02 (11:14:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (11:14:34) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (11:14:34) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (11:14:34) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:30:04) | ===> btop++ v.1.4.0
+2025/02/02 (15:30:04) | INFO: Logger set to DEBUG
+2025/02/02 (15:30:04) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:30:04) | INFO: Running on /dev/pts/2
+2025/02/02 (15:30:04) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:30:04) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:30:04) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:30:04) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:30:24) | ===> btop++ v.1.4.0
+2025/02/02 (15:30:24) | INFO: Logger set to DEBUG
+2025/02/02 (15:30:24) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:30:24) | INFO: Running on /dev/pts/2
+2025/02/02 (15:30:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:30:24) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:30:24) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:30:24) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:30:47) | ===> btop++ v.1.4.0
+2025/02/02 (15:30:47) | INFO: Logger set to DEBUG
+2025/02/02 (15:30:47) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:30:47) | INFO: Running on /dev/pts/2
+2025/02/02 (15:30:47) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:30:47) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:30:47) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:30:47) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:33:02) | ===> btop++ v.1.4.0
+2025/02/02 (15:33:02) | INFO: Logger set to DEBUG
+2025/02/02 (15:33:02) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:33:02) | INFO: Running on /dev/pts/2
+2025/02/02 (15:33:02) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:33:02) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:33:02) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:33:02) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:33:31) | ===> btop++ v.1.4.0
+2025/02/02 (15:33:31) | INFO: Logger set to DEBUG
+2025/02/02 (15:33:31) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:33:31) | INFO: Running on /dev/pts/2
+2025/02/02 (15:33:31) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:33:31) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:33:31) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:33:31) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:34:22) | ===> btop++ v.1.4.0
+2025/02/02 (15:34:22) | INFO: Logger set to DEBUG
+2025/02/02 (15:34:22) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:34:22) | INFO: Running on /dev/pts/2
+2025/02/02 (15:34:22) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:34:22) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:34:22) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:34:22) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:50:25) | ===> btop++ v.1.4.0
+2025/02/02 (15:50:25) | INFO: Logger set to DEBUG
+2025/02/02 (15:50:25) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:50:25) | INFO: Running on /dev/pts/2
+2025/02/02 (15:50:26) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:50:26) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:50:26) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:50:26) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:06) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:06) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:06) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:06) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:06) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:06) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:06) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:09) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:09) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:09) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:09) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:09) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:09) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:09) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:09) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:10) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:10) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:10) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:10) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:10) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:10) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:10) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:10) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:12) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:12) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:12) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:12) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:12) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:12) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:12) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:13) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:13) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:13) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:13) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:13) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:13) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:13) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:15) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:15) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:15) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:15) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:15) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:15) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:15) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:16) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:16) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:16) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:16) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:17) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:17) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:17) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:51:42) | ===> btop++ v.1.4.0
+2025/02/02 (15:51:42) | INFO: Logger set to DEBUG
+2025/02/02 (15:51:42) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:51:42) | INFO: Running on /dev/pts/1
+2025/02/02 (15:51:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:51:42) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:51:42) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:51:42) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:57:37) | ===> btop++ v.1.4.0
+2025/02/02 (15:57:37) | INFO: Logger set to DEBUG
+2025/02/02 (15:57:37) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:57:37) | INFO: Running on /dev/pts/2
+2025/02/02 (15:57:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:57:37) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:57:37) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:57:37) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:57:48) | ===> btop++ v.1.4.0
+2025/02/02 (15:57:48) | INFO: Logger set to DEBUG
+2025/02/02 (15:57:48) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:57:48) | INFO: Running on /dev/pts/2
+2025/02/02 (15:57:48) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:57:48) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:57:48) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:57:48) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:59:30) | ===> btop++ v.1.4.0
+2025/02/02 (15:59:30) | INFO: Logger set to DEBUG
+2025/02/02 (15:59:30) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:59:30) | INFO: Running on /dev/pts/2
+2025/02/02 (15:59:30) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:59:30) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:59:30) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:59:30) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (15:59:36) | ===> btop++ v.1.4.0
+2025/02/02 (15:59:36) | INFO: Logger set to DEBUG
+2025/02/02 (15:59:36) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (15:59:36) | INFO: Running on /dev/pts/2
+2025/02/02 (15:59:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (15:59:36) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (15:59:36) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (15:59:36) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:00:39) | ===> btop++ v.1.4.0
+2025/02/02 (16:00:39) | INFO: Logger set to DEBUG
+2025/02/02 (16:00:39) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:00:39) | INFO: Running on /dev/pts/3
+2025/02/02 (16:00:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:00:39) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:00:39) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:00:39) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:00:40) | ===> btop++ v.1.4.0
+2025/02/02 (16:00:40) | INFO: Logger set to DEBUG
+2025/02/02 (16:00:40) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:00:40) | INFO: Running on /dev/pts/2
+2025/02/02 (16:00:40) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:00:40) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:00:40) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:00:40) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:00:48) | ===> btop++ v.1.4.0
+2025/02/02 (16:00:48) | INFO: Logger set to DEBUG
+2025/02/02 (16:00:48) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:00:48) | INFO: Running on /dev/pts/2
+2025/02/02 (16:00:48) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:00:48) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:00:48) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:00:48) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:01:24) | ===> btop++ v.1.4.0
+2025/02/02 (16:01:24) | INFO: Logger set to DEBUG
+2025/02/02 (16:01:24) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:01:24) | INFO: Running on /dev/pts/2
+2025/02/02 (16:01:24) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:01:24) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:01:24) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:01:24) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:01:53) | ===> btop++ v.1.4.0
+2025/02/02 (16:01:53) | INFO: Logger set to DEBUG
+2025/02/02 (16:01:53) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:01:53) | INFO: Running on /dev/pts/2
+2025/02/02 (16:01:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:01:53) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:01:53) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:01:53) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:16) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:16) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:16) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:16) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:16) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:16) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:16) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:16) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:27) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:27) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:27) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:27) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:27) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:27) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:27) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:29) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:29) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:29) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:29) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:29) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:29) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:29) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:34) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:34) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:34) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:34) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:34) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:34) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:34) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:34) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:40) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:40) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:40) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:40) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:40) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:40) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:40) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:40) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:02:44) | ===> btop++ v.1.4.0
+2025/02/02 (16:02:44) | INFO: Logger set to DEBUG
+2025/02/02 (16:02:44) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:02:44) | INFO: Running on /dev/pts/2
+2025/02/02 (16:02:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:02:44) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:02:44) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:02:44) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:04:49) | ===> btop++ v.1.4.0
+2025/02/02 (16:04:49) | INFO: Logger set to DEBUG
+2025/02/02 (16:04:49) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:04:49) | INFO: Running on /dev/pts/2
+2025/02/02 (16:04:49) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:04:49) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:04:49) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:04:49) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:04:52) | ===> btop++ v.1.4.0
+2025/02/02 (16:04:52) | INFO: Logger set to DEBUG
+2025/02/02 (16:04:52) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:04:52) | INFO: Running on /dev/pts/2
+2025/02/02 (16:04:52) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:04:52) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:04:52) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:04:52) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:04:53) | ===> btop++ v.1.4.0
+2025/02/02 (16:04:53) | INFO: Logger set to DEBUG
+2025/02/02 (16:04:53) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:04:53) | INFO: Running on /dev/pts/2
+2025/02/02 (16:04:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:04:53) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:04:53) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:04:53) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:04:54) | ===> btop++ v.1.4.0
+2025/02/02 (16:04:54) | INFO: Logger set to DEBUG
+2025/02/02 (16:04:54) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:04:54) | INFO: Running on /dev/pts/2
+2025/02/02 (16:04:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:04:54) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:04:54) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:04:54) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:05:15) | ===> btop++ v.1.4.0
+2025/02/02 (16:05:15) | INFO: Logger set to DEBUG
+2025/02/02 (16:05:15) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:05:15) | INFO: Running on /dev/pts/2
+2025/02/02 (16:05:15) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:05:15) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:05:15) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:05:15) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:05:19) | ===> btop++ v.1.4.0
+2025/02/02 (16:05:19) | INFO: Logger set to DEBUG
+2025/02/02 (16:05:19) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:05:19) | INFO: Running on /dev/pts/2
+2025/02/02 (16:05:19) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:05:19) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:05:19) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:05:19) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:05:51) | ===> btop++ v.1.4.0
+2025/02/02 (16:05:51) | INFO: Logger set to DEBUG
+2025/02/02 (16:05:51) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:05:51) | INFO: Running on /dev/pts/3
+2025/02/02 (16:05:51) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:05:51) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:05:51) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:05:51) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:05:54) | ===> btop++ v.1.4.0
+2025/02/02 (16:05:54) | INFO: Logger set to DEBUG
+2025/02/02 (16:05:54) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:05:54) | INFO: Running on /dev/pts/3
+2025/02/02 (16:05:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:05:54) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:05:54) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:05:54) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:06:28) | ===> btop++ v.1.4.0
+2025/02/02 (16:06:28) | INFO: Logger set to DEBUG
+2025/02/02 (16:06:28) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:06:28) | INFO: Running on /dev/pts/3
+2025/02/02 (16:06:28) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:06:28) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:06:28) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:06:28) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:02) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:02) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:02) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:02) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:02) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:02) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:02) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:02) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:10) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:10) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:10) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:10) | INFO: Running on /dev/pts/3
+2025/02/02 (16:09:10) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:10) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:10) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:10) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:21) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:21) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:21) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:21) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:21) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:21) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:21) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:29) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:29) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:29) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:29) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:29) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:29) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:29) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:41) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:41) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:41) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:41) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:41) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:41) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:41) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:41) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:42) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:42) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:42) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:42) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:42) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:42) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:42) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:44) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:44) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:44) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:44) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:44) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:44) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:44) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:50) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:50) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:50) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:50) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:50) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:50) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:50) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:50) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:09:56) | ===> btop++ v.1.4.0
+2025/02/02 (16:09:56) | INFO: Logger set to DEBUG
+2025/02/02 (16:09:56) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:09:56) | INFO: Running on /dev/pts/2
+2025/02/02 (16:09:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:09:56) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:09:56) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:09:56) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:21:39) | ===> btop++ v.1.4.0
+2025/02/02 (16:21:39) | INFO: Logger set to DEBUG
+2025/02/02 (16:21:39) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:21:39) | INFO: Running on /dev/pts/2
+2025/02/02 (16:21:39) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:21:39) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:21:39) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:21:39) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:22:20) | ===> btop++ v.1.4.0
+2025/02/02 (16:22:20) | INFO: Logger set to DEBUG
+2025/02/02 (16:22:20) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:22:20) | INFO: Running on /dev/pts/1
+2025/02/02 (16:22:20) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:22:20) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:22:20) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:22:20) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:22:22) | ===> btop++ v.1.4.0
+2025/02/02 (16:22:22) | INFO: Logger set to DEBUG
+2025/02/02 (16:22:22) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:22:22) | INFO: Running on /dev/pts/1
+2025/02/02 (16:22:22) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:22:22) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:22:22) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:22:22) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:22:28) | ===> btop++ v.1.4.0
+2025/02/02 (16:22:28) | INFO: Logger set to DEBUG
+2025/02/02 (16:22:28) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:22:28) | INFO: Running on /dev/pts/1
+2025/02/02 (16:22:28) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:22:28) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:22:28) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:22:28) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:23:17) | ===> btop++ v.1.4.0
+2025/02/02 (16:23:17) | INFO: Logger set to DEBUG
+2025/02/02 (16:23:17) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:23:17) | INFO: Running on /dev/pts/1
+2025/02/02 (16:23:17) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:23:17) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:23:17) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:23:17) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:24:12) | ===> btop++ v.1.4.0
+2025/02/02 (16:24:12) | INFO: Logger set to DEBUG
+2025/02/02 (16:24:12) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:24:12) | INFO: Running on /dev/pts/1
+2025/02/02 (16:24:12) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:24:12) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:24:12) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:24:12) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:27:26) | ===> btop++ v.1.4.0
+2025/02/02 (16:27:26) | INFO: Logger set to DEBUG
+2025/02/02 (16:27:26) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:27:26) | INFO: Running on /dev/pts/1
+2025/02/02 (16:27:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:27:27) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:27:27) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:27:27) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:30:23) | ===> btop++ v.1.4.0
+2025/02/02 (16:30:23) | INFO: Logger set to DEBUG
+2025/02/02 (16:30:23) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:30:23) | INFO: Running on /dev/pts/1
+2025/02/02 (16:30:23) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:30:23) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:30:23) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:30:23) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:30:27) | ===> btop++ v.1.4.0
+2025/02/02 (16:30:27) | INFO: Logger set to DEBUG
+2025/02/02 (16:30:27) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:30:27) | INFO: Running on /dev/pts/1
+2025/02/02 (16:30:27) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:30:27) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:30:27) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:30:27) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:30:28) | ===> btop++ v.1.4.0
+2025/02/02 (16:30:28) | INFO: Logger set to DEBUG
+2025/02/02 (16:30:28) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:30:28) | INFO: Running on /dev/pts/1
+2025/02/02 (16:30:28) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:30:28) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:30:28) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:30:28) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:30:29) | ===> btop++ v.1.4.0
+2025/02/02 (16:30:29) | INFO: Logger set to DEBUG
+2025/02/02 (16:30:29) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:30:29) | INFO: Running on /dev/pts/1
+2025/02/02 (16:30:29) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:30:29) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:30:29) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:30:29) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:30:30) | ===> btop++ v.1.4.0
+2025/02/02 (16:30:30) | INFO: Logger set to DEBUG
+2025/02/02 (16:30:30) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:30:30) | INFO: Running on /dev/pts/1
+2025/02/02 (16:30:30) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:30:30) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:30:30) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:30:30) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:31:33) | ===> btop++ v.1.4.0
+2025/02/02 (16:31:33) | INFO: Logger set to DEBUG
+2025/02/02 (16:31:33) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:31:33) | INFO: Running on /dev/pts/1
+2025/02/02 (16:31:33) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:31:33) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:31:33) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:31:33) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:31:42) | ===> btop++ v.1.4.0
+2025/02/02 (16:31:42) | INFO: Logger set to DEBUG
+2025/02/02 (16:31:42) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:31:42) | INFO: Running on /dev/pts/1
+2025/02/02 (16:31:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:31:42) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:31:42) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:31:42) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:31:43) | ===> btop++ v.1.4.0
+2025/02/02 (16:31:43) | INFO: Logger set to DEBUG
+2025/02/02 (16:31:43) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:31:43) | INFO: Running on /dev/pts/1
+2025/02/02 (16:31:43) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:31:43) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:31:43) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:31:43) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:31:45) | ===> btop++ v.1.4.0
+2025/02/02 (16:31:45) | INFO: Logger set to DEBUG
+2025/02/02 (16:31:45) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:31:45) | INFO: Running on /dev/pts/1
+2025/02/02 (16:31:45) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:31:45) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:31:45) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:31:45) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:31:59) | ===> btop++ v.1.4.0
+2025/02/02 (16:31:59) | INFO: Logger set to DEBUG
+2025/02/02 (16:31:59) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:31:59) | INFO: Running on /dev/pts/1
+2025/02/02 (16:31:59) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:31:59) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:31:59) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:31:59) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:32:01) | ===> btop++ v.1.4.0
+2025/02/02 (16:32:01) | INFO: Logger set to DEBUG
+2025/02/02 (16:32:01) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:32:01) | INFO: Running on /dev/pts/1
+2025/02/02 (16:32:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:32:01) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:32:01) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:32:01) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:34:07) | ===> btop++ v.1.4.0
+2025/02/02 (16:34:07) | INFO: Logger set to DEBUG
+2025/02/02 (16:34:07) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:34:07) | INFO: Running on /dev/pts/1
+2025/02/02 (16:34:07) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:34:07) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:34:07) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:34:07) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:34:18) | ===> btop++ v.1.4.0
+2025/02/02 (16:34:18) | INFO: Logger set to DEBUG
+2025/02/02 (16:34:18) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:34:18) | INFO: Running on /dev/pts/1
+2025/02/02 (16:34:18) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:34:18) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:34:18) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:34:18) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:34:44) | ===> btop++ v.1.4.0
+2025/02/02 (16:34:44) | INFO: Logger set to DEBUG
+2025/02/02 (16:34:44) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:34:44) | INFO: Running on /dev/pts/1
+2025/02/02 (16:34:44) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:34:44) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:34:44) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:34:44) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:36:20) | ===> btop++ v.1.4.0
+2025/02/02 (16:36:20) | INFO: Logger set to DEBUG
+2025/02/02 (16:36:20) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:36:20) | INFO: Running on /dev/pts/1
+2025/02/02 (16:36:21) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:36:21) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:36:21) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:36:21) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:36:56) | ===> btop++ v.1.4.0
+2025/02/02 (16:36:56) | INFO: Logger set to DEBUG
+2025/02/02 (16:36:56) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:36:56) | INFO: Running on /dev/pts/1
+2025/02/02 (16:36:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:36:56) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:36:56) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:36:56) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:38:20) | ===> btop++ v.1.4.0
+2025/02/02 (16:38:20) | INFO: Logger set to DEBUG
+2025/02/02 (16:38:20) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:38:20) | INFO: Running on /dev/pts/1
+2025/02/02 (16:38:20) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:38:20) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:38:20) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:38:20) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:41:13) | ===> btop++ v.1.4.0
+2025/02/02 (16:41:13) | INFO: Logger set to DEBUG
+2025/02/02 (16:41:13) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:41:13) | INFO: Running on /dev/pts/2
+2025/02/02 (16:41:13) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:41:13) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:41:13) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:41:13) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:41:26) | ===> btop++ v.1.4.0
+2025/02/02 (16:41:26) | INFO: Logger set to DEBUG
+2025/02/02 (16:41:26) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:41:26) | INFO: Running on /dev/pts/1
+2025/02/02 (16:41:26) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:41:26) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:41:26) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:41:26) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:41:31) | ===> btop++ v.1.4.0
+2025/02/02 (16:41:31) | INFO: Logger set to DEBUG
+2025/02/02 (16:41:31) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:41:31) | INFO: Running on /dev/pts/1
+2025/02/02 (16:41:32) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:41:32) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:41:32) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:41:32) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:41:37) | ===> btop++ v.1.4.0
+2025/02/02 (16:41:37) | INFO: Logger set to DEBUG
+2025/02/02 (16:41:37) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:41:37) | INFO: Running on /dev/pts/1
+2025/02/02 (16:41:37) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:41:37) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:41:37) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:41:37) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (16:42:53) | ===> btop++ v.1.4.0
+2025/02/02 (16:42:53) | INFO: Logger set to DEBUG
+2025/02/02 (16:42:53) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (16:42:53) | INFO: Running on /dev/pts/2
+2025/02/02 (16:42:53) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (16:42:53) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (16:42:53) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (16:42:53) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (17:33:10) | ===> btop++ v.1.4.0
+2025/02/02 (17:33:10) | INFO: Logger set to DEBUG
+2025/02/02 (17:33:11) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (17:33:11) | INFO: Running on /dev/pts/0
+2025/02/02 (17:33:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (17:33:11) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (17:33:11) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (17:33:11) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (21:29:46) | ===> btop++ v.1.4.0
+2025/02/02 (21:29:46) | INFO: Logger set to DEBUG
+2025/02/02 (21:29:46) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (21:29:46) | INFO: Running on /dev/pts/1
+2025/02/02 (21:29:46) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (21:29:46) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (21:29:46) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (21:29:46) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (21:29:54) | ===> btop++ v.1.4.0
+2025/02/02 (21:29:54) | INFO: Logger set to DEBUG
+2025/02/02 (21:29:54) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (21:29:54) | INFO: Running on /dev/pts/1
+2025/02/02 (21:29:54) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (21:29:54) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (21:29:54) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (21:29:54) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (21:29:58) | ===> btop++ v.1.4.0
+2025/02/02 (21:29:58) | INFO: Logger set to DEBUG
+2025/02/02 (21:29:58) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (21:29:58) | INFO: Running on /dev/pts/1
+2025/02/02 (21:29:58) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (21:29:58) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (21:29:58) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (21:29:58) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/02 (21:30:03) | ===> btop++ v.1.4.0
+2025/02/02 (21:30:03) | INFO: Logger set to DEBUG
+2025/02/02 (21:30:03) | DEBUG: Using locale en_US.UTF-8
+2025/02/02 (21:30:03) | INFO: Running on /dev/pts/1
+2025/02/02 (21:30:03) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/02 (21:30:03) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/02 (21:30:03) | DEBUG: Shared::init() : Initialized.
+2025/02/02 (21:30:03) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/03 (07:58:01) | ===> btop++ v.1.4.0
+2025/02/03 (07:58:01) | INFO: Logger set to DEBUG
+2025/02/03 (07:58:01) | DEBUG: Using locale en_US.UTF-8
+2025/02/03 (07:58:01) | INFO: Running on /dev/pts/0
+2025/02/03 (07:58:01) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/03 (07:58:01) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/03 (07:58:01) | DEBUG: Shared::init() : Initialized.
+2025/02/03 (07:58:01) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme
+
+2025/02/03 (08:07:09) | ===> btop++ v.1.4.0
+2025/02/03 (08:07:09) | INFO: Logger set to DEBUG
+2025/02/03 (08:07:09) | DEBUG: Using locale en_US.UTF-8
+2025/02/03 (08:07:09) | INFO: Running on /dev/pts/0
+2025/02/03 (08:07:09) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.6: cannot open shared object file: No such file or directory
+2025/02/03 (08:07:09) | DEBUG: Failed to find Intel GPU sysfs path, Intel GPUs will not be detected
+2025/02/03 (08:07:09) | DEBUG: Shared::init() : Initialized.
+2025/02/03 (08:07:09) | DEBUG: Loading theme file: /home/glyph/.config/btop/themes/rose-pine.theme

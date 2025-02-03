@@ -1,0 +1,12 @@
+{
+  "barbar.nvim": { "branch": "master", "commit": "53b5a2f34b68875898f0531032fbf090e3952ad7" },
+  "deadcolumn.nvim": { "branch": "master", "commit": "897c905aef1a268ce4cc507d5cce048ed808fa7a" },
+  "gitsigns.nvim": { "branch": "main", "commit": "9b36d497495436c135659902054ee637e0ba6021" },
+  "lazy.nvim": { "branch": "main", "commit": "7527af40ddd4a93a02911be570b32609b9d4ea53" },
+  "neo-tree.nvim": { "branch": "v3.x", "commit": "5d172e8315444dbc32867d1c7b04d8e7e68ec4e1" },
+  "nui.nvim": { "branch": "main", "commit": "53e907ffe5eedebdca1cd503b00aa8692068ca46" },
+  "nvim-web-devicons": { "branch": "master", "commit": "402377242b04be3f4f0f3720bd952df86e946c30" },
+  "plenary.nvim": { "branch": "master", "commit": "3707cdb1e43f5cea73afb6037e6494e7ce847a66" },
+  "rose-pine": { "branch": "main", "commit": "22ba2bb523cce822d72a77a5cd80656da9d62293" },
+  "sttusline": { "branch": "main", "commit": "133bb40d249e0167c89bb352ff8442b821fb07e9" }
+}

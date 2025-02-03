@@ -1,4 +1,8 @@
 //@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
 
 //@theme "/usr/share/rofi/themes/black.rasi"
-@theme "~/.config/rofi/themes/default.rasi"
+@theme "~/.config/rofi/themes/rose-pine.rasi"
+
+configuration {
+	icon-theme: "rose-pine-dawn-icons";
+}

@@ -29,28 +29,28 @@ style = "Italic"
 transparent_background_colors = true
 
 [colors.primary]
-background = "#000000"
-foreground = "#FFFFFF"
+background = "#191724"
+foreground = "#E0DEF4"
 
 [colors.normal]
-black = "#000000"
-red = "#FF5555"
-green = "#55FF55"
-yellow = "#FFFF55"
-blue = "#5555FF"
-magenta = "#FF55FF"
-cyan = "#55FFFF"
-white = "#BBBBBB"
+black = "#26233A"
+red = "#EB6F92"
+green = "#9CCFD8"
+yellow = "#F6C177"
+blue = "#31748F"
+magenta = "#C4A7E7"
+cyan = "#EBBCBA"
+white = "#E0DEF4"
 
 [colors.bright]
-black = "#555555"
-red = "#FF5555"
-green = "#55FF55"
-yellow = "#FFFF55"
-blue = "#5555FF"
-magenta = "#FF55FF"
-cyan = "#55FFFF"
-white = "#FFFFFF"
+black = "#6E6A86"
+red = "#EB6F92"
+green = "#9CCFD8"
+yellow = "#F6C177"
+blue = "#31748F"
+magenta = "#C4A7E7"
+cyan = "#EBBCBA"
+white = "#E0DEF4"
 
 [cursor]
 blink_interval = 500

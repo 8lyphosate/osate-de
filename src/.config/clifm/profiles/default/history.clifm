@@ -1,0 +1,2007 @@
+git add .
+#1737174437
+git commit -m "Updated dotfiles on $(date)"
+#1737174454
+git config --global user.email "8lyphosate@gmail.com"
+#1737174465
+git config --global user.name "8lyphosate"
+#1737174467
+git commit -m "Updated dotfiles on $(date)"
+#1737174505
+git push -u origin main
+#1737174659
+git add
+#1737174664
+git add .
+#1737174668
+git commit -m
+#1737174677
+git commit -m "Intial commit"
+#1737174682
+ls
+#1737174686
+git commit -m "Intial commit"
+#1737174692
+git push -u original main
+#1737174706
+git push -h
+#1737174719
+git push -u ricery main
+#1737174725
+git push -u original main
+#1737174746
+git push -u origin main
+#1737174809
+git add .
+#1737174811
+git commit -m "Intial commit"
+#1737174818
+git commit -h
+#1737174824
+git commit
+#1737174829
+git push -u origin main
+#1737174838
+git branch -M main
+#1737174841
+git branch -M
+#1737174843
+git branch -M ma
+#1737174844
+git branch -M main
+#1737176930
+.config/
+#1737176938
+fish/
+#1737176959
+fastfetch/
+#1737177047
+.config/
+#1737177049
+picom/
+#1737177053
+i3/
+#1737177061
+polybar/
+#1737177133
+fish/
+#1737177170
+scripts/
+#1737177305
+fish
+#1737177315
+.config/fish/
+#1737177327
+vim config.fish
+#1737180930
+~
+#1737180935
+Documents/
+#1737180943
+Pictures/
+#1737180949
+Videos/
+#1737180974
+2025-01-17\ 22-07-28.mkv
+#1737180995
+vlc 2025-01-17\ 22-07-28.mkv
+#1737181081
+ffmpeg -h
+#1737189050
+Pictures/
+#1737251761
+2025-01-18\ 17-55-44.mkv
+#1737251783
+vlc 2025-01-18\ 17-55-44.mkv
+#1737347018
+Downloads/
+#1737347022
+yay -S 7zip
+#1737347092
+7zip
+#1737347110
+unzip officestyle-fixed-tooltip.7z
+#1737347118
+7z
+#1737347159
+7z officestyle-fixed-tooltip.7z
+#1737347188
+7z x officestyle-fixed-tooltip.7z
+#1737347201
+ls
+#1737347205
+reload
+#1737347216
+officestyle-fixed-tooltip.7z
+#1737347237
+reload
+#1737347243
+yay -S atool
+#1737347250
+officestyle-fixed-tooltip.7z
+#1737347255
+cd officestyle-fixed-tooltip/
+#1737347298
+~
+#1737347307
+usr/share/
+#1737347310
+themes/
+#1737347322
+mv officestyle-fixed-tooltip/ /usr/share/themes/
+#1737347326
+sudo mv officestyle-fixed-tooltip/ /usr/share/themes/
+#1737351488
+mo-thaisclann/
+#1737351498
+vim automation.sh
+#1737351514
+reload
+#1737351542
+cp -r ~/.config/alacritty/ alacritty/
+#1737351547
+cp -r ~/.config/fastfetch/ fastfetch/
+#1737351553
+cp -r ~/.config/fish/ fish/
+#1737351561
+cp -r ~/.config/i3/ i3/
+#1737351565
+cp -r ~/.config/picom/ picom/
+#1737351569
+cp -r ~/.config/polybar/ polybar/
+#1737351575
+cp -r ~/.config/rofi/ rofi/
+#1737351581
+cp -r ~/.config/scripts/ scripts/
+#1737351589
+git commit
+#1737351596
+git status
+#1737351605
+git commit -m "jan 19"
+#1737351618
+git push
+#1737351630
+gittoken
+#1737351636
+vim gittoken
+#1737351681
+git commit -m "jan 19"
+#1737351686
+git -h
+#1737351694
+git rebase
+#1737351724
+fastfetch/
+#1737351734
+rm -rf alacritty/
+#1737351735
+rm -rf fastfetch/
+#1737351737
+rm -rf 1
+#1737351739
+rm -rf i3/
+#1737351741
+rm -rf picom/
+#1737351745
+rm -rf polybar/
+#1737351747
+rm -rf rofi/
+#1737351750
+rm -rf scripts/
+#1737351755
+.config/
+#1737351758
+cp -r ~/.config/scripts/ scripts/
+#1737351766
+cp -r ~/.config/fish/ fi
+#1737351775
+rm -rf fi/
+#1737351777
+cp -r ~/.config/fish/ fish/
+#1737351790
+cp -r ~/.config/fastfetch/ fastfetch/
+#1737351795
+cp -r ~/.config/picom/ picom/\
+#1737351797
+cp -r ~/.config/picom/ picom/
+#1737351810
+cp -r ~/.config/polybar/ polybar/
+#1737351829
+cp -r ~/.config/rofi/ rofi/
+#1737351838
+cp -r ~/.config/alacritty/ alacritty/
+#1737351846
+cp -r ~/.config/i3/config i3/
+#1737351852
+cp -r ~/.config/i3/ i3/
+#1737351865
+cp -r ~/.config/ncmpcpp/ ncmpcpp/
+#1737351871
+cp -r ~/.config/mpd/ mpd/
+#1737351875
+git commit -m "jan 19"
+#1737351882
+git add .
+#1737351883
+git commit -m "jan 19"
+#1737351886
+git push
+#1737360917
+Pictures/
+#1737363026
+~
+#1737363043
+.config/
+#1737363045
+scripts/
+#1737363653
+.config/
+#1737363653
+scripts/
+#1737363663
+vim pavu.sh
+#1737363680
+cp htop.sh volume-popup.sh
+#1737363683
+vim volume-popup.sh
+#1737363880
+cp htop.sh sysmon-popup.sh
+#1737363882
+vim sysmon-popup.sh
+#1737363891
+rm sysmon-popup.sh
+#1737363928
+cp top.sh sysmon-popup.sh
+#1737363930
+vim sysmon-popup.sh
+#1737363982
+vim welcome.sh
+#1737407328
+.config/scripts/
+#1737407342
+pavu.sh
+#1737407373
+chmod +x volume-popup.sh
+#1737407376
+chmod +x sysmon-popup.sh
+#1737407391
+volume-popup.sh
+#1737407395
+vim volume-popup.sh
+#1737410208
+/
+#1737410210
+windows-home/
+#1737410419
+/
+#1737410421
+windows-home/
+#1737411271
+.config/
+#1737411273
+polybar/
+#1737411278
+polybarthemes/
+#1737411288
+rm -rf polybarthemes/
+#1737411291
+polybar/
+#1737411299
+cp default-dark.ini default-light.ini
+#1737411302
+vim default-light.ini
+#1737413159
+.config/polybar/
+#1737413171
+config.toml
+#1737413194
+vim config.toml
+#1737413845
+reload
+#1737413847
+.config/scripts/
+#1737413854
+rm pavu.sh top.sh
+#1737413863
+ffinfo.sh
+#1737413877
+rm -rf xborder/
+#1737413880
+wallgif
+#1737413889
+vim focus.sh
+#1737413912
+fish/
+#1737413914
+config.fish
+#1737413923
+vim config.fish
+#1737413937
+.config/
+#1737413938
+fastfetch/
+#1737413959
+rename config4.jsonc fish-greeting.jsonc config4.jsonc
+#1737413988
+vim fish_variables
+#1737414057
+rm alacritty.toml.bak
+#1737414058
+rm chicago95.toml
+#1737414059
+rm hyper.toml
+#1737414064
+fastfetch/
+#1737414089
+.config/
+#1737414092
+scripts/
+#1737414094
+vim welcome.sh
+#1737414169
+fastfetch/
+#1737414186
+rename config.jsonc welcome.jsonc config.jsonc
+#1737414201
+./welcome.sh
+#1737414217
+scripts/
+#1737414220
+vim welcome.sh
+#1737414322
+fish/
+#1737414330
+cp config.fish welcome.fish
+#1737414333
+vim welcome.fish
+#1737414544
+fish/
+#1737414547
+rm welcome.fish
+#1737415326
+polybar/
+#1737415340
+rm spotify_status.py
+#1737415348
+rm updates-pacman-aurhelper.sh
+#1737415385
+picom/
+#1737415389
+i3/
+#1737415393
+i3grid/
+#1737415414
+Documents/
+#1737415976
+mkdir osate-de
+#1737415980
+cd osate-de/
+#1737416003
+reload
+#1737416005
+reload
+#1737416198
+mkdir .config
+#1737416206
+.config/
+#1737416227
+cp -r ~/.config/alacritty/ .config/
+#1737416469
+cp -r ~/.config/fish/ .config/
+#1737416535
+fastfetch/
+#1737416566
+fastfetch -c config2.jsonc
+#1737416569
+fastfetch -c config3.jsonc
+#1737416575
+fastfetch -c welcome.jsonc
+#1737416615
+reload
+#1737416623
+rename config2.jsonc old.config2.jsonc
+#1737416626
+rename config2.jsonc old.config2.jsonc config2.jsonc
+#1737416641
+rename config3.jsonc old.config3.jsonc config3.jsonc
+#1737416650
+fastfetch -c welcome.jsonc
+#1737416656
+rm old.config2.jsonc
+#1737416658
+rm old.config3.jsonc
+#1737416672
+cp -r ~/.config/fastfetch/ .config/
+#1737416678
+polybar/
+#1737416692
+rm -r windows/
+#1737416703
+rm system-usb-udev.sh
+#1737416711
+cp -r ~/.config/polybar/ .config/
+#1737416719
+cp -r ~/.config/i3/ .config/
+#1737417008
+,,
+#1737417016
+cp -r ~/.config/picom/ .config/
+#1737417111
+vim picom/picom.conf
+#1737417270
+xclip
+#1737417274
+maim
+#1737417369
+slop
+#1737417428
+screenshots/
+#1737417446
+rm screenshot_20-Jan-2025_15-52-31.png
+#1737417451
+rm screenshot_14-Aug-2024_21-11-41.png
+#1737417453
+rm screenshot_14-Sep-2024_21-01-43.png
+#1737417456
+rm screenshot_20-Jan-2025_15-52-47.png
+#1737417459
+rm screenshot_20-Jan-2025_15-53-22.png
+#1737417461
+rm screenshot_20-Jan-2025_15-54-44.png
+#1737417472
+rm screenshot_20-Jan-2025_15-55-56.png screenshot_20-Jan-2025_15-56-16.png
+#1737419803
+~
+#1737419813
+vlc 2025-01-20\ 16-34-36.mkv
+#1737443403
+Documents/
+#1737443405
+osate-de/
+#1737443541
+fastfetch
+#1737443554
+reload
+#1737443565
+vim .config/polybar/config.ini
+#1737443829
+reload
+#1737444010
+cd ~/Documents/osate-de/
+#1737444042
+rm naivecalendar/
+#1737444045
+rmdir naivecalendar/
+#1737444049
+rmdir -r naivecalendar/
+#1737444054
+rm -rf naivecalendar/
+#1737444083
+.config/
+#1737444084
+dunst/
+#1737444086
+vim dunstrc
+#1737444252
+dunstify -h int:value:12
+#1737444257
+dunstify -h
+#1737444259
+dunstify
+#1737444264
+dunstify -h int:value:12 wsgnigga
+#1737444300
+killall dunst
+#1737444302
+dunstify -h int:value:12 wsgnigga
+#1737444674
+killall dunst
+#1737444675
+dunstify -h int:value:12 wsgnigga
+#1737444806
+killall dunst
+#1737444947
+cp ~/.config/dunst/ .config/
+#1737444951
+cp -r ~/.config/dunst/ .config/
+#1737444987
+rm -rf rofi-wifi-menu/
+#1737444989
+rm -rf rofi-network-manager/
+#1737444992
+scripts/
+#1737445022
+hotkeys/
+#1737445032
+shortcut.sh
+#1737445039
+./shortcut.sh
+#1737445078
+naivecalendar/
+#1737445082
+screenshot/
+#1737445087
+rm -rf screenshot/
+#1737445114
+launchers/
+#1737445124
+polybar/
+#1737445126
+config.ini
+#1737445129
+vim config.ini
+#1737445278
+applets/
+#1737445282
+./powermenu.sh
+#1737445289
+powermenu/
+#1737445297
+.1
+#1737445300
+./powermenu.sh
+#1737445307
+./powermenu.sh
+#1737445309
+./
+#1737445312
+type-3/
+#1737445313
+./powermenu.sh
+#1737445323
+./powermenu.sh
+#1737445331
+type-5/
+#1737445333
+./powermenu.sh
+#1737445364
+rm -rf type-2/
+#1737445366
+rm -rf type-3/
+#1737445369
+rm -rf type-4/
+#1737445371
+rm -rf type-5/
+#1737445373
+rm -rf type-6/
+#1737445395
+vim powermenu.sh
+#1737445430
+vim style-3.rasi
+#1737445439
+rm style-1.rasi
+#1737445441
+rm style-2.rasi
+#1737445443
+rm style-4.rasi
+#1737445445
+rm style-5.rasi
+#1737445456
+vim powermenu.sh
+#1737445520
+vim powermenu.sh
+#1737445530
+mv shared/ ..
+#1737445534
+mv powermenu.sh ..
+#1737445536
+mv style-3.rasi ..
+#1737445540
+rmdir type-1/
+#1737445557
+scripts/
+#1737445560
+powermenu_t2
+#1737445562
+./9
+#1737445565
+./powermenu_t1
+#1737445571
+./launcher_t1
+#1737445581
+rm -rf scripts/
+#1737445587
+config.rasi
+#1737445644
+naivecalendar/
+#1737445658
+screenshot.png
+#1737445682
+cp ~/.config/rofi/ .config/
+#1737445686
+cp -r ~/.config/rofi/ .config/
+#1737445719
+cp .ncmpcpp/ Documents/osate-de/
+#1737445724
+cp -r .ncmpcpp/ Documents/osate-de/
+#1737445726
+reolad
+#1737445727
+reload
+#1737445749
+.mpd/
+#1737445758
+.config/
+#1737445759
+mpd/
+#1737445764
+vim con
+#1737445769
+vim mpd.conf
+#1737445863
+cp -r mpd/ ../Documents/osate-de/.config/
+#1737445879
+vim mpd.conf
+#1737523209
+Documents/
+#1737523211
+osate-de/
+#1737523219
+reload
+#1737523297
+vim install.sh
+#1737523444
+vim i3/config
+#1737523543
+.config/
+#1737523544
+scripts/
+#1737523568
+vim media-control.sh
+#1737523839
+chmod +x media-control.sh
+#1737523841
+reload
+#1737523844
+vim media-control.sh
+#1737525323
+Documents/
+#1737525325
+osate-de/
+#1737525329
+scripts/
+#1737525528
+cp -r ~/.config/scripts/
+#1737525535
+cp -r ~/.config/scripts/ .config/
+#1737525557
+vim install.sh
+#1737525730
+mkdir src
+#1737525735
+mv .config/ src/
+#1737525737
+mv .ncmpcpp/ src/
+#1737525741
+vim install.sh
+#1737525891
+,,
+#1737525997
+clifm/
+#1737525999
+vim clifmrun
+#1737526098
+cp -r conky/ ../Documents/osate-de/src/.config/
+#1737526105
+cp -r bashtop/ ../Documents/osate-de/src/.config/
+#1737526145
+betterlockscreen/
+#1737526280
+vim  betterlockscreenrc
+#1737526367
+Pictures/
+#1737526388
+cp 1419743.jpg ../.config/betterlockscreen/lock.jpg
+#1737527050
+Documents/
+#1737527052
+osate-de/
+#1737527065
+cp ~/.config/betterlockscreen/ ./
+#1737527070
+cp ~/.config/betterlockscreen/ ../.config/
+#1737527074
+cp -r ~/.config/betterlockscreen/ ../.config/
+#1737527153
+chmod +x install.sh
+#1737527186
+reload
+#1737527188
+vim install.sh
+#1737527282
+git init
+#1737527367
+git add .
+#1737527390
+git commit -m "first commit"
+#1737527420
+git remote add origin https://github.com/8lyphosate/osate-de.git
+#1737527431
+git branch -M main
+#1737527437
+git push -u origin main
+#1737527491
+vim readme.md
+#1737528103
+Doc
+#1737528107
+Documents/
+#1737528124
+osate-de/
+#1737528141
+mv default-wallpaper.jpg src/
+#1737528143
+src/
+#1737528546
+Documents/
+#1737528547
+osate-de/
+#1737528574
+vim install.sh
+#1737609242
+Documents/
+#1737609244
+osate-de/
+#1737611543
+Documents/
+#1737611544
+osate-de/
+#1737612382
+default-wallpaper.jpg
+#1737681387
+Pictures/
+#1737688087
+naivecalendar/
+#1737688094
+Documents/
+#1737688096
+osate-de/
+#1737688098
+vim install.sh
+#1737688361
+git add install.sh
+#1737688373
+git add src/default-wallpaper.jpg
+#1737688384
+git commit -m "install script update"
+#1737688388
+git push
+#1737692939
+rofi/
+#1737692946
+mkdir themes
+#1737692948
+themes/
+#1737692959
+cp /usr/share/rofi/themes/black.rasi themes/
+#1737692961
+cd themes/
+#1737692967
+rename black.rasi default.rasi black.rasi
+#1737693011
+config.rasi
+#1737693041
+vim config.rasi
+#1737693085
+Documents/
+#1737693087
+osate-de/
+#1737693107
+cp ~/.config/rofi/config.rasi src/.config/rofi/
+#1737693124
+cp -r ~/.config/rofi/themes/ src/.config/rofi/
+#1737693133
+git add src/.config/rofi/
+#1737693151
+vim install.sh
+#1737693231
+git add install.sh
+#1737693238
+git commit -m "rofi fix"
+#1737693251
+git push
+#1737693384
+rofi/
+#1737693387
+vim config.rasi
+#1737693392
+themes/
+#1737697393
+nitrogen/
+#1737697400
+vim nitrogen.cfg
+#1737697410
+vim bg-saved.cfg
+#1737697438
+Documents/
+#1737697439
+osate-de/
+#1737697444
+mkdir nitrogen
+#1737697446
+nitrogen/
+#1737697453
+vim bg-saved.cfg
+#1737697489
+nitrogen/
+#1737697491
+vim bg-saved.cfg
+#1737697511
+git add src/.config/nitrogen/
+#1737697526
+vim install.sh
+#1737697530
+i3/
+#1737697532
+vim config
+#1737697772
+git commit -m "wallpaper"
+#1737702773
+reload
+#1737703114
+Documents/
+#1737703118
+Scholarships/
+#1737703141
+FL\ Studio/
+#1737703156
+usr/
+#1737703160
+lib/
+#1737703181
+lib64/
+#1737703193
+lib/
+#1737703196
+lib32/
+#1737703213
+local/
+#1737703216
+share/
+#1737703241
+bin/
+#1737703265
+/
+#1737703268
+usr/
+#1737703273
+share/
+#1737703275
+wine/
+#1737703302
+.wine/
+#1737763247
+Documents/
+#1737763248
+osate-de/
+#1737763252
+vim readme.md
+#1737763737
+/
+#1737763739
+tmp/
+#1737763761
+reload
+#1737763764
+albumart
+#1737763766
+/tmp/
+#1737763775
+~
+#1737763777
+.config/
+#1737763781
+.ncmpcpp/
+#1737763785
+vim config
+#1737763799
+.config/
+#1737763802
+mpd/
+#1737763804
+vim mpd.conf
+#1737763917
+/tmp/
+#1737764159
+Documents/
+#1737764161
+osate-de/
+#1737764163
+mkdir screenshots
+#1737764170
+screenshots/
+#1737764210
+cp screenshot_24-Jan-2025_16-15-47.png ../Documents/osate-de/screenshots/
+#1737764212
+reload
+#1737764221
+rename screenshot_24-Jan-2025_16-15-47.png 1.png screenshot_24-Jan-2025_16-15-47.png
+#1737764256
+reload
+#1737764272
+cp screenshot_24-Jan-2025_16-17-22.png ../Documents/osate-de/screenshots/
+#1737764275
+reload
+#1737764279
+rename screenshot_24-Jan-2025_16-17-22.png 2.png screenshot_24-Jan-2025_16-17-22.png
+#1737764328
+cp default-wallpaper.jpg ../../../Pictures/
+#1737764443
+vim install.sh
+#1737764457
+osate-de/
+#1737764458
+src/
+#1737764461
+rm default-wallpaper.jpg
+#1737764491
+scripts/
+#1737764495
+pwd
+#1737764563
+reload
+#1737764577
+cp screenshot_24-Jan-2025_16-22-31.png ../Documents/osate-de/screenshots/
+#1737764579
+reload
+#1737764584
+rename screenshot_24-Jan-2025_16-22-31.png 3.png screenshot_24-Jan-2025_16-22-31.png
+#1737764615
+vim readme.md
+#1737765192
+git add readme.md
+#1737765197
+git add screenshots/
+#1737765200
+git add src/default-wallpaper.png
+#1737765212
+git commit -m "random updates"
+#1737765215
+git push
+#1737765357
+vim readme.md
+#1737765367
+Documents/
+#1737765369
+osate-de/
+#1737765371
+vim readme.md
+#1737765579
+screenshots/
+#1737765609
+cp screenshot_24-Jan-2025_16-39-11.png ../Documents/osate-de/screenshots/4.png
+#1737767021
+git add screenshots/
+#1737767024
+git add readme.md
+#1737767031
+git commit -m "readme update"
+#1737767034
+git push
+#1737779758
+polybar/
+#1737779763
+mkdir modules
+#1737780841
+vim cpu.conf
+#1737780863
+rename cpu.conf cpu.ini cpu.conf
+#1737780864
+vim cpu.ini
+#1737780967
+rename cpu.ini cpu-icon.ini cpu.ini
+#1737780997
+vim wlan-icon.ini
+#1737781029
+vim eth-icon.ini
+#1737781039
+vim eth-icon.ini
+#1737781072
+vim eth-icon.ini
+#1737781078
+vim wlan-icon.ini
+#1737781171
+vim ram-icon.ini
+#1737781222
+vim vol-icon.ini
+#1737781689
+vim time-icon.ini
+#1737781761
+vim mpd-icon.ini
+#1737781853
+vim workspace-icon.ini
+#1737781982
+vim keyboard-icon.ini
+#1737782148
+vim tray-icon.ini
+#1737782308
+vim power-icon.ini
+#1737795363
+/
+#1737795365
+windows-home
+#1737795368
+Library/
+#1737795369
+Downloads/
+#1737795388
+january\ 3\ 2025.mp3
+#1737795434
+mpc pause
+#1737865525
+Documents/
+#1737865526
+osate-de/
+#1737867788
+Documents/
+#1737867791
+osate-de/
+#1737867795
+vim install.sh
+#1737868871
+vim install.sh
+#1737869148
+cd .config/
+#1737869462
+polybar/
+#1737869469
+mkdir clean
+#1737869473
+cp * clean/
+#1737869479
+vim cpu-icon.ini
+#1737869506
+vim eth-icon.ini
+#1737869531
+vim keyboard-icon.ini
+#1737869537
+vim mpd-icon.ini
+#1737869553
+vim power-icon.ini
+#1737869557
+vim ram-icon.ini
+#1737869562
+vim time-icon.ini
+#1737869567
+vim tray-icon.ini
+#1737869576
+vim vol-icon.ini
+#1737869584
+vim wlan-icon.ini
+#1737869592
+vim workspace-icon.ini
+#1737869612
+vim config.ini
+#1737879714
+Downloads/
+#1737879720
+tar -xf reaper730_linux_x86_64.tar.xz
+#1737879723
+cd reaper_linux_x86_64/
+#1737879726
+./install-reaper.sh
+#1737880455
+/dev/
+#1737880464
+reload
+#1737883568
+Downloads/
+#1737883570
+Bitwig\ Studio\ 5.2.7.flatpak
+#1737883581
+flatpak -h
+#1737883613
+flatpak run Bitwig\ Studio\ 5.2.7.flatpak
+#1737884397
+Downloads/
+#1737884400
+debtap helm_0.9.0_amd64_r.deb
+#1737884409
+debtap -u helm_0.9.0_amd64_r.deb
+#1737884413
+sudo debtap -u helm_0.9.0_amd64_r.deb
+#1737884434
+debtap helm_0.9.0_amd64_r.deb
+#1737884733
+/mnt/
+#1737923509
+alacritty/
+#1737923510
+alacritty.toml
+#1737923514
+vim alacritty.toml
+#1737936332
+Downloads/
+#1737936336
+iTunesSetup.exe
+#1737936343
+wine iTunesSetup.exe
+#1737939052
+~
+#1737939055
+Documents/
+#1737939056
+osate-de/
+#1737939059
+vim install.sh
+#1737940209
+reload
+#1737940624
+polybar/
+#1737941123
+modules/
+#1737941131
+vim battery-icon.ini
+#1737941379
+polybar/
+#1737941380
+modules/
+#1737941382
+cpu-icon.ini
+#1737941385
+vim cpu-icon.ini
+#1737941931
+vim ram-icon.ini
+#1737941999
+vim temp-icon.ini
+#1737942106
+vim install.sh
+#1737942299
+/sys/
+#1737942300
+class
+#1737942303
+thermal/
+#1737942310
+thermal_zone0/
+#1737942403
+$ for i in /sys/class/thermal/thermal_zone*; do echo "$i: $(<$i/type)"; done
+#1737942417
+$ for i in /sys/class/thermal/thermal_zone*; echo "$i: $(<$i/type)"; done
+#1737942424
+for i in /sys/class/thermal/thermal_zone*; echo "$i: $(<$i/type)"; done
+#1737942429
+for i in /sys/class/thermal/thermal_zone*; do echo "$i: $(<$i/type)"; done
+#1737946146
+rename battery-icon.ini battery.ini
+#1737946148
+rename battery-icon.ini battery.ini battery-icon.ini
+#1737946153
+rename cpu-icon.ini cpu.ini cpu-icon.ini
+#1737946159
+rename eth-icon.ini eth.ini eth-icon.ini
+#1737946165
+rename keyboard-icon.ini keyboard.ini keyboard-icon.ini
+#1737946170
+rename mpd-icon.ini mpd.ini mpd-icon.ini
+#1737946176
+rename power-icon.ini power.ini power-icon.ini
+#1737946181
+rename ram-icon.ini ram.ini ram-icon.ini
+#1737946185
+rename temp-icon.ini temp.ini temp-icon.ini
+#1737946190
+rename time-icon.ini time.ini time-icon.ini
+#1737946195
+rename tray-icon.ini tray.ini tray-icon.ini
+#1737946199
+rename vol-icon.ini vol.ini vol-icon.ini
+#1737946204
+rename workspace-icon.ini workspace.ini
+#1737946205
+rename workspace-icon.ini workspace.ini workspace-icon.ini
+#1737946211
+rename wlan-icon.ini wlan.ini wlan-icon.ini
+#1737946226
+rm -rf clean/
+#1737946228
+mkdir car
+#1737946231
+cp * car/
+#1737946262
+vim cpu.ini
+#1737946313
+polybar/
+#1737946318
+cp config.ini car.ini
+#1737946320
+vim car.ini
+#1737947434
+vim temp.ini
+#1737949150
+polybar/
+#1737949160
+cp config.ini bitmap.ini
+#1737949163
+vim bitmap.ini
+#1737951904
+.config/
+#1737951904
+polybar/
+#1737951910
+mkdir bitmap
+#1737951914
+cp * bitmap/
+#1737951917
+cd bitmap/
+#1737951923
+vim cpu.ini
+#1737954995
+polybar/
+#1737954998
+rm car.ini
+#1737955000
+rm bitmap.ini
+#1737955005
+rm -rf car/
+#1737955007
+rm -rf bitmap/
+#1738022956
+Downloads/
+#1738022970
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738022983
+wine Setup.exe
+#1738024122
+cd ..
+#1738024130
+rm The\ Sims\ 2\ Ultimate\ Collection.rar
+#1738026033
+sway
+#1738026067
+yay -S nouveau
+#1738026094
+yay -S xf86-video-nouveau
+#1738026116
+yay -S nvidia-open
+#1738027428
+Documents/
+#1738027430
+osate-de/
+#1738027457
+fish/
+#1738027485
+rmdir completions/
+#1738027487
+rmdir conf.d/
+#1738027489
+rmdir functions/
+#1738027502
+cd ~
+#1738027505
+.config/
+#1738027506
+fish/
+#1738027510
+fish/
+#1738027512
+rm completions/
+#1738027514
+rmdir completions/
+#1738027517
+rmdir 1
+#1738027519
+rmdir functions/
+#1738028524
+reload
+#1738029173
+Downloads/
+#1738029177
+tar -xf polydock-2.1.0.tar.gz
+#1738029179
+polydock-2.1.0/
+#1738029190
+./polydock.sh
+#1738029194
+yay -S gjs
+#1738029202
+./polydock.sh
+#1738029294
+cp bin/polydock.sh ~/.local/bin/
+#1738029306
+cp -rv config ~/.config/polydock
+#1738029321
+polydock
+#1738029326
+polydock.sh
+#1738029337
+bin/polydock.sh
+#1738029342
+./polydock.sh
+#1738029353
+TODO
+#1738029399
+vim settings.ini
+#1738029534
+vim package.json
+#1738029546
+vim zipit.sh
+#1738029598
+.local/bin/
+#1738029600
+rm polydock.sh
+#1738029607
+.config/
+#1738029613
+rm -rf polydock/
+#1738029620
+Downloads/
+#1738029627
+unp polydock-bin-2.1.0.zip
+#1738029635
+pol10
+#1738029636
+polydock-2.1.0/
+#1738029641
+rm -rf polydock-2.1.0/
+#1738029646
+rm -rf polydock-2.1.0.tar.gz
+#1738029651
+unp polydock-bin-2.1.0.zip
+#1738029658
+y
+#1738029682
+mkdir polydock
+#1738029688
+unzip polydock-bin-2.1.0.zip -e polydock/
+#1738029694
+unzip -h
+#1738029740
+unzip -e polydock/ polydock-bin-2.1.0.zip
+#1738029755
+unzip -e polydock-bin-2.1.0.zip
+#1738029783
+polydock-bin-2.1.0.zip
+#1738029822
+sbin/
+#1738029829
+lib/
+#1738029890
+Downloads/
+#1738029892
+polydock/
+#1738029894
+./polydock
+#1738029910
+vim polydock
+#1738029922
+./polydock
+#1738030104
+vim ./polydock
+#1738037518
+Downloads/
+#1738037520
+polydock/
+#1738037528
+bin/polydock
+#1738037532
+./polydock
+#1738037537
+./polydock -h
+#1738037539
+./polydock -f
+#1738037541
+./polydock
+#1738037680
+vim polybar/scripts/windowlist/config.toml
+#1738038134
+polybar/
+#1738038146
+screenshot.png
+#1738038190
+vim config.ini
+#1738038220
+rofi/
+#1738038222
+themes/
+#1738038385
+polybar/
+#1738038396
+vim trans-bar.ini
+#1738038399
+vim config.ini
+#1738038541
+`
+#1738038544
+tray.ini
+#1738038547
+vim tray.ini
+#1738038643
+polybar/
+#1738038650
+cp trans-bar.ini black-bar.ini
+#1738038653
+vim black-bar.ini
+#1738038771
+default-dark.ini
+#1738038783
+vim default-dark.ini
+#1738038955
+vim wlan.ini
+#1738039335
+vim vol.ini
+#1738039371
+vim vol-db.ini
+#1738039421
+vim time.ini
+#1738039515
+vim vol-db.ini
+#1738041500
+.wine/
+#1738041503
+1.
+#1738041515
+Mr\ DJ/
+#1738041524
+The\ Sims\ 2/
+#1738041710
+wine Sims2.exe
+#1738041739
+wine TS2UPD0.exe
+#1738041748
+wine TS2UPD.exe
+#1738041966
+.wine/
+#1738042049
+Downloads/
+#1738042053
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738042062
+wine dxwebsetup.exe
+#1738042081
+wine dxwebsetup.exe
+#1738042105
+vim Instructions.txt
+#1738042111
+vim Resolution\ Fix.txt
+#1738042138
+vim Autorun.inf
+#1738042147
+vim Setup-1.bin
+#1738042155
+Mr\ DJ/
+#1738042169
+wine PackageInstaller.exe
+#1738042196
+.wine/
+#1738042246
+The\ Sims\ 2\ Apartment\ Life/
+#1738042310
+The\ Sims\ 2\ Mansion\ and\ Garden\ Stuff/
+#1738042317
+wine Sims2Launcher.exe
+#1738042361
+The\ Sims\ 2\ Nightlife/
+#1738042365
+`
+#1738042374
+wine EasyInfo.exe
+#1738042414
+The\ Sims\ 2\ Nightlife_code.exe
+#1738042419
+wine The\ Sims\ 2\ Nightlife_code.exe
+#1738042440
+wine The\ Sims\ 2_code.exe
+#1738042460
+wine Sims2.exe
+#1738042597
+Downloads/
+#1738042600
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738042808
+.wine/
+#1738042812
+Mr\ DJ/
+#1738042822
+wine Sims2.exe
+#1738042853
+xprop
+#1738042892
+wine Sims2.exe
+#1738042955
+xrandr -s 1920x1080
+#1738042981
+Downloads/
+#1738042983
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738042987
+wine Setup.exe
+#1738043362
+,,
+#1738043364
+.wine/
+#1738043369
+Mr\ DJ/
+#1738043389
+Downloads/
+#1738043394
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738043417
+wine Setup.exe
+#1738045999
+.wine/
+#1738046004
+Mr\ DJ/
+#1738046012
+Games/
+#1738046027
+The\ Sims\ 2\ University/
+#1738046037
+wine Sims2EP1.exe
+#1738046062
+wine TS2UPD.exe
+#1738046091
+wine GameuxInstallHelper.dll
+#1738046107
+wine The\ Sims\ 2/TSBin/Sims2.exe
+#1738046298
+Games/
+#1738046321
+vim FirewallInstallHelper.dll
+#1738046335
+Uninstall/
+#1738046342
+`1
+#1738046375
+wine TS2BodyShop.exe
+#1738046393
+TSBin/
+#1738046399
+wine Sims2.exe
+#1738050636
+.local/share/Steam/steamapps/
+#1738050638
+compatdata/
+#1738050641
+3903077187/
+#1738050653
+The\ Sims\ 2\ Mansion\ and\ Garden\ Stuff/
+#1738050658
+wine Sims2Launcher.exe
+#1738050771
+wine Sims2EP9.exe
+#1738111888
+Downloads/
+#1738111891
+The\ Sims\ 2\ Ultimate\ Collection/
+#1738111906
+wine Setup.exe
+#1738119273
+.wine/
+#1738119277
+Mr\ DJ/
+#1738119298
+Games/
+#1738119308
+The\ Sims\ 2\ Mansion\ and\ Garden\ Stuff/
+#1738119314
+wine Sims2Launcher.exe
+#1738129525
+Downloads/
+#1738129529
+brogue-1.7.5-linux-amd64.tbz2
+#1738129534
+ark brogue-1.7.5-linux-amd64.tbz2
+#1738129539
+brogue-1.7.5-linux-amd64.tbz2
+#1738129562
+ark brogue-1.7.5-linux-amd64.tbz2
+#1738130891
+Pictures/
+#1738130936
+sudo cp ADA_Sunset_4_21_2018_f08f25a6-baa3-47d7-8e37-f99d46946c27.jpg /etc/lock-wall.jpg
+#1738199094
+Downloads/
+#1738199102
+locale
+#1738199111
+cd usr/share/icons/
+#1738199115
+reload
+#1738199131
+sudo mv elementary-kde.tar.xz /usr/share/icons/
+#1738199134
+reload
+#1738199136
+tar -xf elementary-kde.tar.xz
+#1738199139
+sudo tar -xf elementary-kde.tar.xz
+#1738199147
+rm -rf elementary-kde.tar.xz
+#1738199150
+sudo rm -rf elementary-kde.tar.xz
+#1738199214
+/usr/share/themes/
+#1738199218
+Downloads/
+#1738199230
+sudo mv 150260-ElementAryMA.tar.tar /usr/share/themes/
+#1738199239
+reload
+#1738199246
+sudo tar -xf 150260-ElementAryMA.tar.tar
+#1738199265
+sudo tar -xf ElementAryAmbience.tar.gz
+#1738199279
+sudo tar -xf ElementAryM.tar.gz
+#1738199289
+sudo rm -rf 150260-ElementAryMA.tar.tar ElementAryAmbience.tar.gz ElementAryM.tar.gz
+#1738199866
+Downloads/
+#1738199874
+/usr/share/themes/
+#1738199876
+reload
+#1738199888
+sudo mv 140728-BlueGlass.tar.tar /usr/share/themes/
+#1738199899
+sudo mv BottleGlass-Dark-2.1.tar.xz /usr/share/themes
+#1738199919
+sudo mv skeuos-gtk-master.zip /usr/share/themes/
+#1738199928
+sudo mv Deepin2022.tar.xz /usr/share/icons/
+#1738199931
+reload
+#1738199937
+sudo tar -xf 140728-BlueGlass.tar.tar
+#1738199943
+sudo tar -xf 140728-BlueGlass.tar.tar
+#1738199950
+sudo tar -xf BottleGlass-Dark-2.1.tar.xz
+#1738199957
+sudo tar -xf skeuos-gtk-master.zip
+#1738199964
+sudo unzip skeuos-gtk-master.zip
+#1738200240
+reload
+#1738200251
+sudo mv /usr/share/themes/ Windows10-gtk-3.20-1.7.tar.gz
+#1738200265
+sudo mv Windows10-gtk-3.20-1.7.tar.gz /usr/share/themes/
+#1738200267
+reload
+#1738200270
+tar -xf Windows10-gtk-3.20-1.7.tar.gz
+#1738200272
+sudo tar -xf Windows10-gtk-3.20-1.7.tar.gz
+#1738200280
+rm -rf 140728-BlueGlass.tar.tar BottleGlass-Dark-2.1.tar.xz skeuos-gtk-master.zip
+#1738200283
+sudo rm -rf 140728-BlueGlass.tar.tar BottleGlass-Dark-2.1.tar.xz skeuos-gtk-master.zip
+#1738210620
+.con
+#1738210624
+rofi/
+#1738210626
+themes/
+#1738210629
+vim default.rasi
+#1738211255
+vim config.rasi
+#1738211343
+rofi/
+#1738211346
+finder/
+#1738211349
+vim finder.sh
+#1738214802
+.config/
+#1738215357
+reload
+#1738291446
+Pictures/
+#1738291478
+mapscii
+#1738291551
+Pictures/
+#1738307817
+picom/
+#1738307823
+rm -rf picom/
+#1738308345
+/usr/share/icons/
+#1738308351
+rose-pine-dawn-icons/
+#1738308355
+vim index.theme
+#1738372857
+Pictures/
+#1738372861
+git clone https://github.com/rose-pine/wallpapers.git
+#1738373071
+bashtop/
+#1738373086
+vim rose-pine.theme
+#1738373216
+btop/
+#1738373218
+vim rose-pine.theme
+#1738373231
+vim scripts/sysmon-popup.sh
+#1738373461
+btop
+#1738373524
+rofi/
+#1738373586
+vim colors.rasi
+#1738373625
+vim colors.rasi
+#1738373639
+vim colors.rasi
+#1738373668
+vim rose-pine.rasi
+#1738373675
+vim black.rasi
+#1738373683
+vim rose-pine.rasi
+#1738373688
+vim black.rasi
+#1738373696
+vim rose-pine.rasi
+#1738373794
+vim 1
+#1738373808
+naivecalendar/
+#1738373812
+vim naivecalendar.sh
+#1738373849
+vim naivecalendar.sh
+#1738373863
+vim naivecalendar.sh
+#1738373902
+theme_black.rasi
+#1738373906
+vim theme_black.rasi
+#1738373946
+vim theme_base.rasi
+#1738373964
+vim theme_dark.rasi
+#1738374017
+vim theme_black.rasi
+#1738374049
+classic_black.rasi
+#1738374061
+vim position.rasi
+#1738374066
+vim shape_classic.rasi
+#1738374191
+rm -rf nvim/
+#1738374670
+nvim/
+#1738374675
+rm neo-tree.nvim
+#1738374678
+nvim
+#1738374689
+vim 1
+#1738374708
+rm neo-tree.lua
+#1738374719
+vim lazy.lua
+#1738374738
+vim neo-tree.lua
+#1738374752
+rm neo-tree.lua
+#1738374756
+vim lazy.lua
+#1738375658
+nvim/
+#1738375663
+vim scrollbar.lua
+#1738375708
+rm scrollbar.lua
+#1738375822
+i3/
+#1738383245
+Pictures/
+#1738383249
+screenshots/
+#1738383254
+screenshot_31-Jan-2025_20-13-40.png
+#1738388357
+config
+#1738388539
+p12
+#1738388551
+p60
+#1738394828
+.config/
+#1738394832
+rm baloofilerc
+#1738394848
+rm -rf abaddon/
+#1738394854
+rm -rf autostart/
+#1738394858
+rm -rf bashtop/
+#1738394864
+rm -rf cairo-dock/
+#1738394872
+rm -rf Discord/
+#1738394875
+discord/
+#1738449555
+Pictures/
+#1738449672
+.config/
+#1738449673
+scripts/
+#1738449724
+rm dock.sh
+#1738449756
+reload
+#1738452005
+.local/
+#1738452006
+bin/
+#1738452010
+chmod +x sway-launcher-desktop.sh
+#1738452013
+reload
+#1738452021
+./sway-launcher-desktop.sh
+#1738524037
+.config/
+#1738524039
+peaclock
+#1738524044
+mkdir peaclock
+#1738524046
+cd peaclock/
+#1738524051
+peaclock mkconfig
+#1738524054
+reload
+#1738524075
+peaclock mkconfig
+#1738524099
+nvim peaclock
+#1738524430
+rm -rf peaclock/
+#1738524435
+mkdir .peaclock
+#1738524441
+cd .peaclock/
+#1738524446
+peaclock
+#1738524518
+nvim cfg
+#1738538929
+.config/
+#1738538930
+scripts/
+#1738538959
+cp network-popup.sh topbar-popup.sh
+#1738538962
+nvim topbar-popup.sh
+#1738539154
+.config/
+#1738539156
+scripts/
+#1738539161
+sysmon-popup.sh
+#1738539194
+topbar-popup.sh
+#1738539266
+nvim topbar-popup.sh
+#1738540210
+rename topbar-popup.sh popup.sh topbar-popup.sh
+#1738540213
+nvim popup.sh
+#1738540246
+.config/\
+#1738540247
+polybar/
+#1738540308
+vol.ini
+#1738540335
+time.ini
+#1738540394
+scripts/
+#1738540397
+nvim clock-popup.sh
+#1738540404
+nvim popup.sh
+#1738540630
+reload
+#1738540632
+nvim popup.sh
+#1738543207
+peaclock -h
+#1738543284
+nvim popup.sh
+#1738543353
+.config/
+#1738543354
+scripts/
+#1738543357
+rm clock-popup.sh
+#1738543365
+rm volume-popup.sh
+#1738543384
+rm network-popup.sh
+#1738543388
+rm sysmon-popup.sh
+#1738543518
+nvim focus-ncmpcpp.sh
+#1738543577
+nvim media-control.sh
+#1738543591
+nvim media-notify.sh
+#1738543608
+./media-notify.sh
+#1738543711
+xprop
+#1738543722
+rm media-notify.sh
+#1738543726
+nvim media-control.sh
+#1738543965
+nvim vol-bright-notify.sh
+#1738543970
+rm vol-bright-notify.sh
+#1738558208
+.config/
+#1738558222
+naivecalendar/
+#1738558227
+rm naivecalendar/
+#1738558239
+rm -rf profanity/
+#1738558274
+hypr/
+#1738558278
+rm -rf hypr/
+#1738558285
+rm -rf inkscape/
+#1738570301
+/usr/share/sddm/faces/
+#1738570327
+~
+#1738570384
+chmod 644 .face
+#1738570404
+sudo nvim /etc/sddm.conf.d/default.conf
+#1738571242
+cd /tmp/
+#1738625501
+Documents/
+#1738625504
+osate-de/
+#1738625534
+cp ~/.peaclock/ src/
+#1738625538
+cp -r ~/.peaclock/ src/
+#1738625560
+cp -rf ~/.config/alacritty/ .config/
+#1738625573
+cp -rf ~/.config/btop/ .config/
+#1738625580
+cp -rf ~/.config/i3/ .config/
+#1738625585
+i3/
+#1738625809
+cp -rf ~/.config/picom/ .config/
+#1738625816
+cp -rf ~/.config/scripts/ .config/
+#1738625821
+rm -rf bashtop/
+#1738625825
+rm -rf betterlockscreen/
+#1738625831
+rm -rf conky/
+#1738625839
+cp -rf ~/.config/dunst/ .config/
+#1738625847
+cp -rf ~/.config/polybar/ .config/
+#1738625854
+cp -rf ~/.config/rofi/ .config/
+#1738625863
+.config/
+#1738625869
+reload
+#1738625875
+cp -rf ~/.config/nvim/ .config/
+#1738625920
+cp -rf ~/.config/clifm/ .config/

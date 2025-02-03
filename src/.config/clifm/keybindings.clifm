@@ -1,0 +1,136 @@
+                ##################################
+                #   Keybindings file for Clifm   #
+                ##################################
+
+# Empty and commented lines are ignored.
+
+# Below is the list of available functions and their default key bindings.
+# To edit a keybinding use the 'kb bind' command. For example, to bind
+# the previous-dir function run 'kb bind previous-dir', enter a new
+# key binding and confirm.
+#
+# In case you wan to edit this file manually, use Emacs style key sequences.
+# For example, use "action:\C-t" to bind the action name 'action' to Ctrl-t,
+# or "action:\et" to bind it to Alt-t.
+
+# Alt-j
+previous-dir:\ej
+# Shift-left (rxvt)
+previous-dir2:\e[d
+# Shift-left (xterm)
+previous-dir3:\e[1;2D
+# Shift-left (others)
+previous-dir4:\e[2D
+
+# Alt-k
+next-dir:\ek
+# Shift-right (rxvt)
+next-dir2:\e[c
+# Shift-right (xterm)
+next-dir3:\e[1;2C
+# Shift-right (others)
+next-dir4:\e[2C
+
+# Alt-u
+parent-dir:\eu
+# Shift-up (rxvt)
+parent-dir2:\e[a
+# Shift-up (xterm)
+parent-dir3:\e[1;2A
+# Shift-up (others)
+parent-dir4:\e[2A
+
+# Alt-e
+home-dir:\ee
+# Home key (rxvt)
+#home-dir2:\e[7~
+# Home key (xterm)
+#home-dir3:\e[H
+# Home key (Emacs term)
+#home-dir4:\e[1~
+
+# Alt-r
+root-dir:\er
+# Alt-/ (rxvt)
+root-dir2:\e/
+#root-dir3:
+
+pinned-dir:\ep
+workspace1:\e1
+workspace2:\e2
+workspace3:\e3
+workspace4:\e4
+
+# Help
+# F1-3
+show-manpage:\eOP
+show-manpage2:\e[11~
+show-cmds:\eOQ
+show-cmds2:\e[12~
+show-kbinds:\eOR
+show-kbinds2:\e[13~
+
+archive-sel:\e\C-a
+bookmark-sel:\e\C-b
+bookmarks:\eb
+clear-line:\ec
+clear-msgs:\et
+#cmd-hist:
+create-file:\en
+deselect-all:\ed
+dirs-first:\eg
+export-sel:\e\C-e
+launch-view:\e-
+lock:\eo
+mountpoints:\em
+move-sel:\e\C-n
+new-instance:\C-x
+next-profile:\e\C-p
+only-dirs:\e,
+open-sel:\e\C-g
+paste-sel:\e\C-v
+prepend-sudo:\ev
+previous-profile:\e\C-o
+rename-sel:\e\C-r
+remove-sel:\e\C-d
+refresh-screen:\C-r
+run-pager:\e0
+selbox:\es
+select-all:\ea
+show-dirhist:\eh
+sort-previous:\ez
+sort-next:\ex
+toggle-hidden:\ei
+toggle-hidden2:\e.
+toggle-light:\ey
+toggle-long:\el
+toggle-follow-links-long:\e+
+toggle-max-name-len:\e\C-l
+toggle-disk-usage:\e\C-i
+toggle-virtualdir-full-paths:\ew
+trash-sel:\e\C-t
+untrash-all:\e\C-u
+
+# F6-12
+open-mime:\e[17~
+open-preview:\e[18~
+#open-jump-db:\e[18~
+edit-color-scheme:\e[19~
+open-keybinds:\e[20~
+open-config:\e[21~
+open-bookmarks:\e[23~
+quit:\e[24~
+
+# Plugins
+# 1) Make sure your plugin is in the plugins directory (or use any of the
+# plugins in there)
+# 2) Link pluginx to your plugin using the 'actions edit' command. E.g.:
+# "plugin1=myplugin.sh"
+# 3) Set a keybinding here for pluginx. E.g.: "plugin1:\M-7"
+
+# Bound to the xclip plugin
+plugin1:\C-y
+
+#plugin2:
+#plugin3:
+#plugin4:

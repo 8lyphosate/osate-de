@@ -2,7 +2,7 @@ sort_by = "position" # "none" | "position" | "application"
 max_windows = 3
 
 name = "title" # "class" | "title"
-name_case = "lowercase" # "none" | "lowercase" | "uppercase"
+name_case = "none" # "none" | "lowercase" | "uppercase"
 name_max_length = 20
 name_padding = 1
 
@@ -47,6 +47,9 @@ ignored_classes = [
 ]
 
 [window_nicknames]
-#firefox = "  firefox"
-#alacritty = "  alacritty"
-#spotify = "  spotify"
+firefox = "  Firefox"
+alacritty = "  Alacritty"
+spotify = "  Spotify"
+discord = "  Discord"
+steam = "  Steam"
+chrome = "  Chrome"

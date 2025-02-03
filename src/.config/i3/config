@@ -114,7 +114,7 @@ font pango:IosevkaNerdFontMono 11
 
 # i3-gaps
 gaps inner 20
-gaps outer 5
+gaps outer 0
 
 # Colors
 for_window [all] border pixel 1 
@@ -125,6 +125,9 @@ client.focused_inactive #ffffff #000000b3 #ffffff77 #ffffff43 #ffffff43
 #------------------#
 # Startup Programs #
 #------------------#
+
+# Dock
+exec --no-startup-id ~/.config/scripts/dynamic-dock.sh
 
 # Taskbar
 exec_always --no-startup-id "killall -q polybar; polybar"
@@ -151,16 +154,6 @@ exec --no-startup-id mpd
 # Notifications
 exec --no-startup-id dunst
 
-# Caffeine
-exec --no-startup-id caffeine
-
-# Lockscreen
-# exec --no-startup-id xss-lock --transfer-sleep-lock -- betterlockscreen -l
-
-# Menu
-exec --no-startup-id jgmenu --hide-on-startup --at-pointer
-exec --no-startup-id xclickroot jgmenu_run
-
 #-----------------------#
 # Application Shortcuts #
 #-----------------------#
@@ -169,14 +162,16 @@ exec --no-startup-id xclickroot jgmenu_run
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +2%
 bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -2%
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
-bindsym XF86AudioPlay exec --no-startup-id "mpc toggle"
-bindsym XF86AudioStop exec --no-startup-id "mpc stop"
-bindsym XF86AudioNext exec --no-startup-id "mpc next"
-bindsym XF86AudioPrev exec --no-startup-id "mpc prev"
+bindsym XF86AudioPlay exec --no-startup-id ~/.config/scripts/media-control.sh play-pause
+bindsym XF86AudioStop exec --no-startup-id ~/.config/scripts/media-control.sh stop
+bindsym XF86AudioNext exec --no-startup-id ~/.config/scripts/media-control.sh next
+bindsym XF86AudioPrev exec --no-startup-id ~/.config/scripts/media-control.sh previous
+bindsym XF86MonBrightnessUp exec brightnessctl set +10%
+bindsym XF86MonBrightnessDown exec brightnessctl set 10%-
 
 # And for my Dell keyboard...
 bindsym Shift+XF86Tools exec --no-startup-id "alacritty -e ncmpcpp"
-bindsym XF86Tools exec --no-startup-id ~/.config/scripts/focusncmpcpp.sh
+bindsym XF86Tools exec --no-startup-id ~/.config/scripts/focus-ncmpcpp.sh
 bindsym XF86Mail exec --no-startup-id thunderbird
 bindsym XF86Calculator exec --no-startup-id "alacritty -e calc"
 bindsym XF86Explorer exec --no-startup-id "alacritty -e sudo sh -c 'fdisk -l && $SHELL'"
@@ -200,7 +195,7 @@ bindsym $mod+e exec --no-startup-id $term -e ~/.config/clifm/clifmrun
 bindsym Control+Shift+Escape exec --no-startup-id $term -e bashtop
 
 ## System // Power // CTRL + ALT + DEL ##
-bindsym Control+Mod1+Delete exec --no-startup-id ~/.config/rofi/powermenu/type-1/powermenu.sh
+bindsym Control+Mod1+Delete exec --no-startup-id ~/.config/rofi/powermenu/powermenu.sh
 
 ## Utilities // Screenshot // PRINT_SCREEN ##
 bindsym Print exec --no-startup-id NOW=$(date +%d-%b-%Y_%H-%M-%S) && maim -u --format png --select > ~/screenshots/screenshot_$NOW.png && xclip -selection clip -t image/png ~/screenshots/screenshot_$NOW.png && dunstify -I ~/screenshots/screenshot_$NOW.png "Screenshot" 'Saved to /home/glyph/screenshots/'
@@ -208,4 +203,9 @@ bindsym Print exec --no-startup-id NOW=$(date +%d-%b-%Y_%H-%M-%S) && maim -u --f
 ## Applications // Firefox //   + B ##
 bindsym $mod+b exec --no-startup-id $browser
 
+## System // Search //   + SHIFT + F ## 
+bindsym $mod+Shift+f exec --no-startup-id rofi -show find -modi find:~/.config/rofi/finder/finder.sh -show-icons
 
+## System // Lock //   + SHIFT + L ##
+bindsym $mod+Shift+l exec --no-startup-id '~/.config/scripts/blur-lock.sh'
+exec --no-startup-id xautolock -time 15 -locker '~/.config/scripts/blur-lock.sh'

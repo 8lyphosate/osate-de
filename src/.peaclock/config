@@ -1,0 +1,41 @@
+# peaclock config
+# file: /home/glyph/.peaclock/cfg
+# date: 2025-02-02T11:28:07Z
+
+mode clock
+view digital
+toggle active-bg
+stopwatch start
+timer 10m:0s
+timer-exec ''
+date '%A - %B %d, %Y'
+locale ''
+timezone ''
+fill-colon ''
+fill-active ''
+fill-inactive ''
+rate-input 50
+rate-status 5000
+rate-refresh 1000
+block 3 2
+padding 0 0
+margin 0 0
+ratio 3 2
+date-padding 1
+set date on
+set seconds on
+set hour-24 off
+set auto-size off
+set auto-ratio off
+style active-fg white
+style active-bg white
+style inactive-fg clear
+style inactive-bg clear
+style colon-fg clear
+style colon-bg clear
+style date clear
+style text clear
+style background clear
+style prompt clear
+style success green
+style error red

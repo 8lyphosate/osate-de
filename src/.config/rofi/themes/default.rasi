@@ -44,6 +44,7 @@ textbox {
     text-color: @foreground;
 }
 listview {
+    columns: 2;
     fixed-height: 0;
     border:       2px 0px 0px ;
     border-color: @separatorcolor;
